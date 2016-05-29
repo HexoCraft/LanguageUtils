@@ -104,6 +104,7 @@ item.armorStand.name=Brynjustandur
 item.arrow.name=Ör
 item.banner.black.name=Svartur fáni
 item.banner.blue.name=Blár fáni
+<<<<<<< HEAD
 item.banner.border.black=Svartur Rammi
 item.banner.border.blue=Blár Rammi
 item.banner.border.brown=Brúnn Rammi
@@ -209,11 +210,21 @@ item.banner.mojang.red=Rauður hlutur
 item.banner.mojang.silver=Ljósgrár hlutur
 item.banner.mojang.white=Hvítur hlutur
 item.banner.mojang.yellow=Gulur hlutur
+=======
+item.banner.brown.name=Brúnn fáni
+item.banner.cyan.name=Heiðblár fáni
+item.banner.gray.name=Grár fáni
+item.banner.green.name=Grænn fáni
+item.banner.lightBlue.name=Ljósblár fáni
+item.banner.lime.name=Límónugrænn fáni
+item.banner.magenta.name=fjólublár fáni
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Appelsínugulur fáni
 item.banner.pink.name=Bleikur fáni
 item.banner.purple.name=Fjólublár fáni
 item.banner.red.name=Rauður fáni
 item.banner.silver.name=Ljósgrár fáni
+<<<<<<< HEAD
 item.banner.small_stripes.black=Svört rönd
 item.banner.small_stripes.blue=Blá rönd
 item.banner.small_stripes.brown=Brún rönd
@@ -428,6 +439,8 @@ item.banner.stripe_top.red=Rautt ofantil
 item.banner.stripe_top.silver=Ljósgrátt ofantil
 item.banner.stripe_top.white=Hvítt ofantil
 item.banner.stripe_top.yellow=Gult ofantil
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Hvítur fáni
 item.banner.yellow.name=Gulur fáni
 item.bed.name=Rúm

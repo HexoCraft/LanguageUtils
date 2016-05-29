@@ -111,6 +111,7 @@ item.armorStand.name=حامل الدرع
 item.arrow.name=سهم
 item.banner.black.name=راية سوداء
 item.banner.blue.name=راية زرقاء
+<<<<<<< HEAD
 item.banner.border.black=اسود الحواف
 item.banner.border.blue=ازرق الحواف
 item.banner.border.brown=بني الحواف
@@ -406,10 +407,20 @@ item.banner.mojang.red=الشيء أحمر
 item.banner.mojang.silver=الشيء الرمادي المخفف
 item.banner.mojang.white=الشيء الأبيض
 item.banner.mojang.yellow=الشيء الأصفر
+=======
+item.banner.brown.name=راية بنية
+item.banner.cyan.name=راية سماوية
+item.banner.gray.name=راية رمادية
+item.banner.green.name=راية خضراء
+item.banner.lightBlue.name=راية زرقاء فاتحة
+item.banner.lime.name=راية ليمونية
+item.banner.magenta.name=راية ارجوانية
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=راية برتقالية
 item.banner.pink.name=راية وردية
 item.banner.purple.name=راية بنفسجية
 item.banner.red.name=راية حمراء
+<<<<<<< HEAD
 item.banner.rhombus.black=معين أسود
 item.banner.rhombus.blue=معين أزرق
 item.banner.rhombus.brown=معين بني
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=راية ملونة أحمر
 item.banner.triangles_top.silver=راية ملونة رمادي فاتح
 item.banner.triangles_top.white=راية ملونة أبيض
 item.banner.triangles_top.yellow=راية ملونة أصفر
+=======
+item.banner.silver.name=راية رمادية فاتحة
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=راية بيضاء
 item.banner.yellow.name=راية صفراء
 item.bed.name=سرير
@@ -1401,3 +1415,23 @@ tile.woolCarpet.silver.name=السجاد الرمادي الفاتح
 tile.woolCarpet.white.name=سجادة
 tile.woolCarpet.yellow.name=السجاد الأصفر
 tile.workbench.name=طاولة النجارة
+tipped_arrow.effect.awkward=سهم مسحور
+tipped_arrow.effect.empty=سهم مسحور
+tipped_arrow.effect.fire_resistance=سهم مقاومة الحريق
+tipped_arrow.effect.harming=سهم الإيذاء
+tipped_arrow.effect.healing=سهم الشفاء
+tipped_arrow.effect.invisibility=سهم الإختفاء
+tipped_arrow.effect.leaping=سهم القفز
+tipped_arrow.effect.levitation=سهم الطوف
+tipped_arrow.effect.luck=سهم الحظ
+tipped_arrow.effect.mundane=سهم مسحور
+tipped_arrow.effect.night_vision=سهم الرؤية الليلية
+tipped_arrow.effect.poison=سهم السم
+tipped_arrow.effect.regeneration=سهم تجدد الصحة
+tipped_arrow.effect.slowness=سهم البطء
+tipped_arrow.effect.strength=سهم القوة
+tipped_arrow.effect.swiftness=سهم السرعة
+tipped_arrow.effect.thick=سهم مسحور
+tipped_arrow.effect.water=سهم الرش
+tipped_arrow.effect.water_breathing=سهم التنفس تحت الماء
+tipped_arrow.effect.weakness=سهم الإضعاف

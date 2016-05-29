@@ -111,6 +111,7 @@ item.armorStand.name=Soporte de armadura
 item.arrow.name=Frecha
 item.banner.black.name=Estandarte negro
 item.banner.blue.name=Estandarte azul
+<<<<<<< HEAD
 item.banner.border.black=Bordo Negro
 item.banner.border.blue=Bordo Azul
 item.banner.border.brown=Bordo Marrón
@@ -406,10 +407,20 @@ item.banner.mojang.red=Cousa vermella
 item.banner.mojang.silver=Cousa Gris Claro
 item.banner.mojang.white=Cousa branca
 item.banner.mojang.yellow=Cousa amarela
+=======
+item.banner.brown.name=Estandarte marrón
+item.banner.cyan.name=Estandarte ciano
+item.banner.gray.name=Estandarte gris
+item.banner.green.name=Estandarte verde
+item.banner.lightBlue.name=Estandarte Azul Claro
+item.banner.lime.name=Estandarte lima
+item.banner.magenta.name=Estandarte maxenta
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Estandarte laranxa
 item.banner.pink.name=Estandarte rosa
 item.banner.purple.name=Estandarte púrpura
 item.banner.red.name=Estandarte vermello
+<<<<<<< HEAD
 item.banner.rhombus.black=Rombo negro
 item.banner.rhombus.blue=Rombo azul
 item.banner.rhombus.brown=Rombo marrón
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Xefe Vermello Dentado
 item.banner.triangles_top.silver=Xefe Gris Claro Dentado
 item.banner.triangles_top.white=Xefe Branco Dentado
 item.banner.triangles_top.yellow=Xefe Amarelo Dentado
+=======
+item.banner.silver.name=Estandarte gris claro
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Estandarte branco
 item.banner.yellow.name=Estandarte amarelo
 item.bed.name=Cama
@@ -1395,3 +1409,23 @@ tile.woolCarpet.silver.name=Alfombra gris clara
 tile.woolCarpet.white.name=Alfombra
 tile.woolCarpet.yellow.name=Alfombra amarela
 tile.workbench.name=Banco de Traballo
+tipped_arrow.effect.awkward=Punta de frecha
+tipped_arrow.effect.empty=Punta de frecha
+tipped_arrow.effect.fire_resistance=Frecha de resistencia ao lume
+tipped_arrow.effect.harming=Frecha de dano
+tipped_arrow.effect.healing=Frecha de curación
+tipped_arrow.effect.invisibility=Frecha de invisibilidade
+tipped_arrow.effect.leaping=Frecha de salto
+tipped_arrow.effect.levitation=Frecha de levitación
+tipped_arrow.effect.luck=Frecha de sorte
+tipped_arrow.effect.mundane=Punta de frecha
+tipped_arrow.effect.night_vision=Frecha de visión nocturna
+tipped_arrow.effect.poison=Frecha de veleno
+tipped_arrow.effect.regeneration=Frecha de rexeneración
+tipped_arrow.effect.slowness=Frecha de lentitude
+tipped_arrow.effect.strength=Frecha de forza
+tipped_arrow.effect.swiftness=Frecha de velocidade
+tipped_arrow.effect.thick=Punta de frecha
+tipped_arrow.effect.water=Frecha explosiva
+tipped_arrow.effect.water_breathing=Frecha de respiración submariña
+tipped_arrow.effect.weakness=Frecha de debilidade

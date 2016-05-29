@@ -143,6 +143,7 @@ item.banner.bricks.silver=Lysegrått Mursteinmønster
 item.banner.bricks.white=Hvitt Mursteinmønster
 item.banner.bricks.yellow=Gult Mursteinmønster
 item.banner.brown.name=Brunt banner
+<<<<<<< HEAD
 item.banner.circle.black=Svart sirkel
 item.banner.circle.blue=Blå sirkel
 item.banner.circle.brown=Brun sirkel
@@ -320,6 +321,9 @@ item.banner.gradient_up.red=Rød Omvendt Gradient
 item.banner.gradient_up.silver=Lysegrå Omvendt Gradient
 item.banner.gradient_up.white=Hvit Omvendt Gradient
 item.banner.gradient_up.yellow=Gul Omvendt Gradient
+=======
+item.banner.cyan.name=Turkist banner
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.gray.name=Grått banner
 item.banner.green.name=Grønt banner
 item.banner.half_horizontal.black=Svart Overdel
@@ -389,6 +393,7 @@ item.banner.half_vertical_right.yellow=Gul Høyredel
 item.banner.lightBlue.name=Lyseblått banner
 item.banner.lime.name=Limegrønt banner
 item.banner.magenta.name=Lyselilla banner
+<<<<<<< HEAD
 item.banner.mojang.black=Svart ting
 item.banner.mojang.blue=Blå ting
 item.banner.mojang.brown=Brun ting
@@ -405,6 +410,8 @@ item.banner.mojang.red=Rød ting
 item.banner.mojang.silver=Lysegrå ting
 item.banner.mojang.white=Hvit ting
 item.banner.mojang.yellow=Gul ting
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Oransje banner
 item.banner.pink.name=Rosa banner
 item.banner.purple.name=Lilla banner
@@ -1385,3 +1392,23 @@ tile.woolCarpet.silver.name=Lystgrått teppe
 tile.woolCarpet.white.name=Hvitt teppe
 tile.woolCarpet.yellow.name=Gult teppe
 tile.workbench.name=Arbeidsbenk
+tipped_arrow.effect.awkward=Tippet pil av
+tipped_arrow.effect.empty=Tippet pil
+tipped_arrow.effect.fire_resistance=Pil av Flamme motstand
+tipped_arrow.effect.harming=Pil av Skading
+tipped_arrow.effect.healing=Pil av helbreding
+tipped_arrow.effect.invisibility=Pil av Usynelighet
+tipped_arrow.effect.leaping=Pil av Høyere hopp
+tipped_arrow.effect.levitation=Leviteringspil
+tipped_arrow.effect.luck=Lykkepil
+tipped_arrow.effect.mundane=Tippet pil av
+tipped_arrow.effect.night_vision=Nattsynspil
+tipped_arrow.effect.poison=Pil av Gift
+tipped_arrow.effect.regeneration=Pil av Regenerasjon
+tipped_arrow.effect.slowness=Pil av treghet
+tipped_arrow.effect.strength=Pil av Styrke
+tipped_arrow.effect.swiftness=Pil av Fart
+tipped_arrow.effect.thick=Tippet pil av
+tipped_arrow.effect.water=Pil av spruting
+tipped_arrow.effect.water_breathing=Pil av Pusting under vann
+tipped_arrow.effect.weakness=Svakhetspil

@@ -1401,3 +1401,26 @@ tile.woolCarpet.silver.name=Covor gri-deschis
 tile.woolCarpet.white.name=Covor alb
 tile.woolCarpet.yellow.name=Covor galben
 tile.workbench.name=Masă de lucru
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Săgeată impregnată
+tipped_arrow.effect.empty=Săgeată impregnată
+tipped_arrow.effect.fire_resistance=Săgeată de rezistență
+tipped_arrow.effect.harming=Săgeată de vătămare
+tipped_arrow.effect.healing=Săgeată de vindecare
+tipped_arrow.effect.invisibility=Săgeată de invizibilitate
+tipped_arrow.effect.leaping=Săgeată de sărit
+tipped_arrow.effect.levitation=Săgeată de levitație
+tipped_arrow.effect.luck=Săgeată de noroc
+tipped_arrow.effect.mundane=Săgeată impregnată
+tipped_arrow.effect.night_vision=Săgeată de vedere nocturnă
+tipped_arrow.effect.poison=Săgeată de otravă
+tipped_arrow.effect.regeneration=Săgeată de regenerare
+tipped_arrow.effect.slowness=Săgeată de încetineală
+tipped_arrow.effect.strength=Săgeată de forță
+tipped_arrow.effect.swiftness=Săgeată de viteză
+tipped_arrow.effect.thick=Săgeată impregnată
+tipped_arrow.effect.water=Săgeată de stropire
+tipped_arrow.effect.water_breathing=Săgeată de respirație subacvatică
+tipped_arrow.effect.weakness=Săgeată de slăbiciune
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

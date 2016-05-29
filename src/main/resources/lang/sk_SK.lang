@@ -209,6 +209,7 @@ item.banner.curly_border.silver=Svetlosivý vlnitý okraj
 item.banner.curly_border.white=Biely vlnitý okraj
 item.banner.curly_border.yellow=Žltý vlnitý okraj
 item.banner.cyan.name=Tyrkysová vlajka
+<<<<<<< HEAD
 item.banner.diagonal_left.black=Čierny delený diagonálny pruh sprava doľava
 item.banner.diagonal_left.blue=Modrý delený diagonálny pruh sprava doľava
 item.banner.diagonal_left.brown=Hnedý delený diagonálny pruh sprava doľava
@@ -321,6 +322,8 @@ item.banner.gradient_up.red=Červený spodný gradient
 item.banner.gradient_up.silver=Svetlosivý spodný gradient
 item.banner.gradient_up.white=Biely spodný gradient
 item.banner.gradient_up.yellow=Žltý spodný gradient
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.gray.name=Sivá vlajka
 item.banner.green.name=Zelená vlajka
 item.banner.half_horizontal.black=Čierne vodorovné oddelenie
@@ -410,6 +413,7 @@ item.banner.orange.name=Oranžová vlajka
 item.banner.pink.name=Ružová vlajka
 item.banner.purple.name=Fialová vlajka
 item.banner.red.name=Červená vlajka
+<<<<<<< HEAD
 item.banner.rhombus.black=Čierny kosoštvorec
 item.banner.rhombus.blue=Modrý kosoštvorec
 item.banner.rhombus.brown=Hnedý kosoštvorec
@@ -731,6 +735,9 @@ item.banner.triangles_top.red=Červený horný odsadený pásik
 item.banner.triangles_top.silver=Svetlosivý horný odsadený pásik
 item.banner.triangles_top.white=Biely horný odsadený pásik
 item.banner.triangles_top.yellow=Žltý horný odsadený pásik
+=======
+item.banner.silver.name=Svetlosivá vlajka
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Biela vlajka
 item.banner.yellow.name=Žltá vlajka
 item.bed.name=Posteľ
@@ -1401,3 +1408,23 @@ tile.woolCarpet.silver.name=Svetlosivý koberec
 tile.woolCarpet.white.name=Koberec
 tile.woolCarpet.yellow.name=Žltý koberec
 tile.workbench.name=Pracovný stôl
+tipped_arrow.effect.awkward=Šíp s Efektom
+tipped_arrow.effect.empty=Šíp s Efektom
+tipped_arrow.effect.fire_resistance=Šíp Ohňuvzdornosti
+tipped_arrow.effect.harming=Šíp Zranenia
+tipped_arrow.effect.healing=Šíp Zdravia
+tipped_arrow.effect.invisibility=Šíp Neviditeľnosti
+tipped_arrow.effect.leaping=Šíp Skákania
+tipped_arrow.effect.levitation=Šíp Levitácie
+tipped_arrow.effect.luck=Šíp Šťastia
+tipped_arrow.effect.mundane=Šíp s Efektom
+tipped_arrow.effect.night_vision=Šíp Nočného Videnia
+tipped_arrow.effect.poison=Otrávený Šíp
+tipped_arrow.effect.regeneration=Šíp Regenarácie
+tipped_arrow.effect.slowness=Šíp Spomalenia
+tipped_arrow.effect.strength=Šíp Sily
+tipped_arrow.effect.swiftness=Šíp Rýchlosti
+tipped_arrow.effect.thick=Šíp s Efektom
+tipped_arrow.effect.water=Rozstriekujúci sa šíp
+tipped_arrow.effect.water_breathing=Šíp Dýchania pod Vodou
+tipped_arrow.effect.weakness=Šíp Slabosti

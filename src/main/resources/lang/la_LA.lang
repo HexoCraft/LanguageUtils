@@ -108,6 +108,7 @@ item.armorStand.name=Homullus
 item.arrow.name=Sagitta
 item.banner.black.name=Vexillum Nigrum
 item.banner.blue.name=Vexillum Venetum
+<<<<<<< HEAD
 item.banner.border.black=Ora nigra
 item.banner.border.blue=Ora caerulea
 item.banner.border.brown=Ora brunnea
@@ -403,10 +404,20 @@ item.banner.mojang.red=Res Rubra
 item.banner.mojang.silver=Res Cana
 item.banner.mojang.white=Res Alba
 item.banner.mojang.yellow=Res Flava
+=======
+item.banner.brown.name=Vexillum Carinum
+item.banner.cyan.name=Vexillum Cyaneum
+item.banner.gray.name=Vexillum Cinereum
+item.banner.green.name=Vexillum Viride
+item.banner.lightBlue.name=Vexillum Azureum
+item.banner.lime.name=Vexillum Prasinum
+item.banner.magenta.name=Vexillum Rubropurpureum
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Vexillum Aurantium
 item.banner.pink.name=Vexillum Roseum
 item.banner.purple.name=Vexillum Purpureum
 item.banner.red.name=Vexillum Rubrum
+<<<<<<< HEAD
 item.banner.rhombus.black=Rhombus Niger
 item.banner.rhombus.blue=Rhombus Caeruleus
 item.banner.rhombus.brown=Rhombus Brunneus
@@ -728,6 +739,9 @@ item.banner.triangles_top.red=Caput Curvus Ruber
 item.banner.triangles_top.silver=Caput Curvus Canus
 item.banner.triangles_top.white=Caput Curvus Albus
 item.banner.triangles_top.yellow=Caput Curvus Flavus
+=======
+item.banner.silver.name=Vexillum Canum
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Vexillum Album
 item.banner.yellow.name=Vexillum Flavum
 item.bed.name=Lectus
@@ -1321,3 +1335,4 @@ tile.woolCarpet.silver.name=Tapes Canus
 tile.woolCarpet.white.name=Tapes
 tile.woolCarpet.yellow.name=Tapes Flavus
 tile.workbench.name=Mensa Opum
+tipped_arrow.effect.empty=Sagitta Baptisma

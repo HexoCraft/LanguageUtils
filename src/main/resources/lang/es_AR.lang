@@ -111,6 +111,7 @@ item.armorStand.name=Atril para armadura
 item.arrow.name=Flecha
 item.banner.black.name=Estandarte negro
 item.banner.blue.name=Estandarte azul
+<<<<<<< HEAD
 item.banner.border.black=Bordura negra
 item.banner.border.blue=Bordura azul
 item.banner.border.brown=Bordura marrón
@@ -406,10 +407,20 @@ item.banner.mojang.red=Cosa roja
 item.banner.mojang.silver=Cosa gris claro
 item.banner.mojang.white=Cosa blanca
 item.banner.mojang.yellow=Cosa amarilla
+=======
+item.banner.brown.name=Estandarte marrón
+item.banner.cyan.name=Estandarte cian
+item.banner.gray.name=Estandarte gris
+item.banner.green.name=Estandarte verde
+item.banner.lightBlue.name=Estandarte celeste
+item.banner.lime.name=Estandarte verde lima
+item.banner.magenta.name=Estandarte magenta
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Estandarte naranja
 item.banner.pink.name=Estandarte rosa
 item.banner.purple.name=Estandarte violeta
 item.banner.red.name=Estandarte rojo
+<<<<<<< HEAD
 item.banner.rhombus.black=Losange negro
 item.banner.rhombus.blue=Losange azul
 item.banner.rhombus.brown=Losange marrón
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Jefe dentado rojo
 item.banner.triangles_top.silver=Jefe dentado gris claro
 item.banner.triangles_top.white=Jefe dentado blanco
 item.banner.triangles_top.yellow=Jefe dentado amarillo
+=======
+item.banner.silver.name=Estandarte gris claro
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Estandarte blanco
 item.banner.yellow.name=Estandarte amarillo
 item.bed.name=Cama
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=Alfombra gris claro
 tile.woolCarpet.white.name=Alfombra blanca
 tile.woolCarpet.yellow.name=Alfombra amarilla
 tile.workbench.name=Mesa de trabajo
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Flecha extraña
+tipped_arrow.effect.empty=Flecha sin efectos
+tipped_arrow.effect.fire_resistance=Flecha de resistencia al fuego
+tipped_arrow.effect.harming=Flecha de daño
+tipped_arrow.effect.healing=Flecha de curación
+tipped_arrow.effect.invisibility=Flecha de invisibilidad
+tipped_arrow.effect.leaping=Flecha de salto
+tipped_arrow.effect.levitation=Flecha de levitación
+tipped_arrow.effect.luck=Flecha de suerte
+tipped_arrow.effect.mundane=Flecha mundana
+tipped_arrow.effect.night_vision=Flecha de visión nocturna
+tipped_arrow.effect.poison=Flecha de veneno
+tipped_arrow.effect.regeneration=Flecha de regeneración
+tipped_arrow.effect.slowness=Flecha de lentitud
+tipped_arrow.effect.strength=Flecha de fuerza
+tipped_arrow.effect.swiftness=Flecha de velocidad
+tipped_arrow.effect.thick=Flecha densa
+tipped_arrow.effect.water=Flecha de salpicadura
+tipped_arrow.effect.water_breathing=Flecha de respiración
+tipped_arrow.effect.weakness=Flecha de debilidad
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

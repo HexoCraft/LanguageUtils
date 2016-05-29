@@ -42,6 +42,7 @@ item.appleGold.name=Apal oresc
 item.arrow.name=Fiescha
 item.banner.black.name=Bandieir negreu
 item.banner.blue.name=Bandieir bléu
+<<<<<<< HEAD
 item.banner.border.black=Orlat civlaineu
 item.banner.border.blue=Orlat azür
 item.banner.border.brown=Orlat branatréu
@@ -337,10 +338,20 @@ item.banner.mojang.red=Cosa goglhas
 item.banner.mojang.silver=Cosa peira
 item.banner.mojang.white=Cosa erxhent
 item.banner.mojang.yellow=Cosa or
+=======
+item.banner.brown.name=Bandieir braneu
+item.banner.cyan.name=Bandieir cian
+item.banner.gray.name=Bandieir grischun
+item.banner.green.name=Bandieir virt
+item.banner.lightBlue.name=Bandieir bléu tint
+item.banner.lime.name=Bandieir virt tint
+item.banner.magenta.name=Bandieir fuc'hschina
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Bandieir crisomileu
 item.banner.pink.name=Bandieir rösch
 item.banner.purple.name=Bandieir purpül
 item.banner.red.name=Bandieir roxh
+<<<<<<< HEAD
 item.banner.rhombus.black=Lausa civlaina
 item.banner.rhombus.blue=Lausa azür
 item.banner.rhombus.brown=Lausa branatréa
@@ -662,6 +673,9 @@ item.banner.triangles_top.red=Cäps alçat es indintat goglhas
 item.banner.triangles_top.silver=Cäps alçat es indintat peira
 item.banner.triangles_top.white=Cäps alçat es indintat erxhent
 item.banner.triangles_top.yellow=Cäps alçat es indintat or
+=======
+item.banner.silver.name=Bandieir grischun tint
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Bandieir biançéu
 item.banner.yellow.name=Bandieir vermel
 item.bed.name=Lict

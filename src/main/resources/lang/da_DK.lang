@@ -323,6 +323,7 @@ item.banner.gradient_up.white=Hvid Bundgradient
 item.banner.gradient_up.yellow=Gul Bundgradient
 item.banner.gray.name=Gråt Banner
 item.banner.green.name=Grønt Banner
+<<<<<<< HEAD
 item.banner.half_horizontal.black=Sort Øvre Halvdel
 item.banner.half_horizontal.blue=Blå Øvre Halvdel
 item.banner.half_horizontal.brown=Brun Øvre Halvdel
@@ -406,6 +407,11 @@ item.banner.mojang.red=Rød Ting
 item.banner.mojang.silver=Lysegrå Ting
 item.banner.mojang.white=Hvid Ting
 item.banner.mojang.yellow=Gul Ting
+=======
+item.banner.lightBlue.name=Lyseblåt Banner
+item.banner.lime.name=Limegrønt Banner
+item.banner.magenta.name=Lyselilla Banner
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Orange Banner
 item.banner.pink.name=Lyserødt Banner
 item.banner.purple.name=Lilla Banner
@@ -427,6 +433,7 @@ item.banner.rhombus.silver=Lysegrå Rombe
 item.banner.rhombus.white=Hvid Rombe
 item.banner.rhombus.yellow=Gul Rombe
 item.banner.silver.name=Lysegråt Banner
+<<<<<<< HEAD
 item.banner.skull.black=Sort Kranie Ladning
 item.banner.skull.blue=Blå Kranie Ladning
 item.banner.skull.brown=Brun Kranie Ladning
@@ -731,6 +738,8 @@ item.banner.triangles_top.red=Røde Toppigge
 item.banner.triangles_top.silver=Lyssegrå Toppigge
 item.banner.triangles_top.white=Hvide Toppigge
 item.banner.triangles_top.yellow=Gule Toppigge
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Hvidt Banner
 item.banner.yellow.name=Gult Banner
 item.bed.name=Seng
@@ -1401,3 +1410,23 @@ tile.woolCarpet.silver.name=Lysegråt tæppe
 tile.woolCarpet.white.name=Tæppe
 tile.woolCarpet.yellow.name=Gult tæppe
 tile.workbench.name=Arbejdsbord
+tipped_arrow.effect.awkward=Tippet pil
+tipped_arrow.effect.empty=Tippet pil
+tipped_arrow.effect.fire_resistance=Ildmodstand pil
+tipped_arrow.effect.harming=Pil af skade
+tipped_arrow.effect.healing=Pil af Healing
+tipped_arrow.effect.invisibility=Usynlighededs pil
+tipped_arrow.effect.leaping=Superhop pil
+tipped_arrow.effect.levitation=Pil af Levitation
+tipped_arrow.effect.luck=Pil af lykke
+tipped_arrow.effect.mundane=Tippet pil
+tipped_arrow.effect.night_vision=Nat syn pil
+tipped_arrow.effect.poison=Pil af gift
+tipped_arrow.effect.regeneration=Pil af regenerering
+tipped_arrow.effect.slowness=Langsomheds pil
+tipped_arrow.effect.strength=Pil af styrke
+tipped_arrow.effect.swiftness=Hurtigheds pil
+tipped_arrow.effect.thick=Tippet pil
+tipped_arrow.effect.water=Sprøjtende pil
+tipped_arrow.effect.water_breathing=Vand vejrtrækning pil
+tipped_arrow.effect.weakness=Pil af svaghed

@@ -111,6 +111,7 @@ item.armorStand.name=Röstungsständer
 item.arrow.name=Piel
 item.banner.black.name=Schwatze Fahn
 item.banner.blue.name=Blau Fahn
+<<<<<<< HEAD
 item.banner.border.black=Schwatze Bod
 item.banner.border.blue=Blaue Bod
 item.banner.border.brown=Brunge Bod
@@ -406,10 +407,20 @@ item.banner.mojang.red=Rude Mojang-Wappe
 item.banner.mojang.silver=Helljraue Mojang-Wappe
 item.banner.mojang.white=Wieße Mojang-Wappe
 item.banner.mojang.yellow=Jäle Mojang-Wappe
+=======
+item.banner.brown.name=Brung Fahn
+item.banner.cyan.name=Blaujrön Fahn
+item.banner.gray.name=Jrau Fahn
+item.banner.green.name=Jrön Fahn
+item.banner.lightBlue.name=Hellblau Fahn
+item.banner.lime.name=Helljrön Fahn
+item.banner.magenta.name=Majenta Fahn
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Orangsch Fahn
 item.banner.pink.name=Rusa Fahn
 item.banner.purple.name=Vijelett Fahn
 item.banner.red.name=Rut Fahn
+<<<<<<< HEAD
 item.banner.rhombus.black=Schwatze Raut
 item.banner.rhombus.blue=Blaue Raut
 item.banner.rhombus.brown=Brunge Raut
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Rude jespickelt Fahnekopp
 item.banner.triangles_top.silver=Helljraue jespickelt Fahnekopp
 item.banner.triangles_top.white=Wieße jespickelt Fahnekopp
 item.banner.triangles_top.yellow=Jäle jespickelt Fahnekopp
+=======
+item.banner.silver.name=Helljrau Fahn
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Wieße Fahn
 item.banner.yellow.name=Jäl Fahn
 item.bed.name=Bett
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=Helljraue Teppich
 tile.woolCarpet.white.name=Teppich
 tile.woolCarpet.yellow.name=Jäle Teppich
 tile.workbench.name=Werkbank
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Jedränkte Piel
+tipped_arrow.effect.empty=Jedränkte Piel
+tipped_arrow.effect.fire_resistance=Füürschotzpiel
+tipped_arrow.effect.harming=Kapottpiel
+tipped_arrow.effect.healing=Heilungspiel
+tipped_arrow.effect.invisibility=Onsechbarkeetspiel
+tipped_arrow.effect.leaping=Springkraffpiel
+tipped_arrow.effect.levitation=Schwevvpiel
+tipped_arrow.effect.luck=Jlöckspiel
+tipped_arrow.effect.mundane=Jedränkte Piel
+tipped_arrow.effect.night_vision=Nachseechspiel
+tipped_arrow.effect.poison=Jeffpiel
+tipped_arrow.effect.regeneration=Rejenerazijonspiel
+tipped_arrow.effect.slowness=Langsamheetspiel
+tipped_arrow.effect.strength=Stärkepiel
+tipped_arrow.effect.swiftness=Jeschwindichkeetspiel
+tipped_arrow.effect.thick=Jedränkte Piel
+tipped_arrow.effect.water=Nasse Piel
+tipped_arrow.effect.water_breathing=Ungerwasserodemspiel
+tipped_arrow.effect.weakness=Schwächheetspiel
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

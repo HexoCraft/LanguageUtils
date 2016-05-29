@@ -109,6 +109,7 @@ item.armorStand.name=Pempamer Perisai
 item.arrow.name=Anak Panah
 item.banner.black.name=Panji Hitam
 item.banner.blue.name=Panji Biru
+<<<<<<< HEAD
 item.banner.border.black=Sempadan Hitam
 item.banner.border.blue=Sempadan Biru
 item.banner.border.brown=Sempadan Perang
@@ -185,11 +186,16 @@ item.banner.gradient_up.red=Kecerunan Asas Merah
 item.banner.gradient_up.silver=Kecerunan Asas Kelabu Muda
 item.banner.gradient_up.white=Kecerunan Asas Putih
 item.banner.gradient_up.yellow=Kecerunan Asas Kuning
+=======
+item.banner.brown.name=Panji Perang
+item.banner.cyan.name=Panji Sian
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.gray.name=Panji Kelabu
 item.banner.green.name=Panji Hijau
 item.banner.lightBlue.name=Panji Biru Muda
 item.banner.lime.name=Panji Limau Hijau
 item.banner.magenta.name=Panji Magenta
+<<<<<<< HEAD
 item.banner.mojang.black=Benda Hitam
 item.banner.mojang.blue=Benda Biru
 item.banner.mojang.brown=Benda Perang
@@ -206,10 +212,13 @@ item.banner.mojang.red=Benda Merah
 item.banner.mojang.silver=Benda Kelabu Muda
 item.banner.mojang.white=Benda Putih
 item.banner.mojang.yellow=Benda Kuning
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Panji Jingga
 item.banner.pink.name=Panji Merah Jambu
 item.banner.purple.name=Panji Ungu
 item.banner.red.name=Panji Merah
+<<<<<<< HEAD
 item.banner.rhombus.white=Lozenge putih
 item.banner.silver.name=Panji Kelabu Muda
 item.banner.skull.black=Caj Tengkorak Hitam
@@ -432,6 +441,9 @@ item.banner.stripe_top.red=Ketua Fess Merah
 item.banner.stripe_top.silver=kelabu cerah
 item.banner.stripe_top.white=Ketua Fess Putih
 item.banner.stripe_top.yellow=Ketua Fess Kuning
+=======
+item.banner.silver.name=Panji Kelabu Muda
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Panji Putih
 item.banner.yellow.name=Panji Kuning
 item.bed.name=Katil
@@ -1021,3 +1033,23 @@ tile.woolCarpet.silver.name=Permaidani Kelabu Muda
 tile.woolCarpet.white.name=Permaidani
 tile.woolCarpet.yellow.name=Permaidani Kuning
 tile.workbench.name=Bangku Kerja
+tipped_arrow.effect.awkward=Anak Panah Tertip
+tipped_arrow.effect.empty=Anak Panah Tertip
+tipped_arrow.effect.fire_resistance=Anak Panah Kalis Api
+tipped_arrow.effect.harming=Anak Panah Memudaratkan
+tipped_arrow.effect.healing=Anak Panah Penyembuhan
+tipped_arrow.effect.invisibility=Anak Panah Halimunan
+tipped_arrow.effect.leaping=Anak Panah Lompatan
+tipped_arrow.effect.levitation=Anak Panah Apungan
+tipped_arrow.effect.luck=Anak Panah Tuah
+tipped_arrow.effect.mundane=Anak Panah Tertip
+tipped_arrow.effect.night_vision=Anak Panah Penglihatan Malam
+tipped_arrow.effect.poison=Anak Panah Beracun
+tipped_arrow.effect.regeneration=Anak Panah Penjanaan Semula
+tipped_arrow.effect.slowness=Anak Panah Kelambatan
+tipped_arrow.effect.strength=Anak Panah Kekuatan
+tipped_arrow.effect.swiftness=Anak Panah Kepantasan
+tipped_arrow.effect.thick=Anak Panah Tertip
+tipped_arrow.effect.water=Anak Panah Percikan
+tipped_arrow.effect.water_breathing=Anak Panah Pernafasan Air
+tipped_arrow.effect.weakness=Anak Panah Kelemahan

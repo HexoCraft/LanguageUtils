@@ -111,6 +111,7 @@ item.armorStand.name=Supporto per armatura
 item.arrow.name=Freccia
 item.banner.black.name=Stendardo nero
 item.banner.blue.name=Stendardo blu
+<<<<<<< HEAD
 item.banner.border.black=Alla bordura di nero
 item.banner.border.blue=Alla bordura di blu
 item.banner.border.brown=Alla bordura di marrone
@@ -406,10 +407,20 @@ item.banner.mojang.red=Al logo di rosso
 item.banner.mojang.silver=Al logo di grigio chiaro
 item.banner.mojang.white=Al logo di bianco
 item.banner.mojang.yellow=Al logo di giallo
+=======
+item.banner.brown.name=Stendardo marrone
+item.banner.cyan.name=Stendardo ciano
+item.banner.gray.name=Stendardo grigio
+item.banner.green.name=Stendardo verde
+item.banner.lightBlue.name=Stendardo azzurro
+item.banner.lime.name=Stendardo lime
+item.banner.magenta.name=Stendardo magenta
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Stendardo arancione
 item.banner.pink.name=Stendardo rosa
 item.banner.purple.name=Stendardo viola
 item.banner.red.name=Stendardo rosso
+<<<<<<< HEAD
 item.banner.rhombus.black=Alla losanga di nero
 item.banner.rhombus.blue=Alla losanga di blu
 item.banner.rhombus.brown=Alla losanga di marrone
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Al capo cuneato di rosso
 item.banner.triangles_top.silver=Al capo cuneato di grigio chiaro
 item.banner.triangles_top.white=Al capo cuneato di bianco
 item.banner.triangles_top.yellow=Al capo cuneato di giallo
+=======
+item.banner.silver.name=Stendardo grigio chiaro
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Stendardo bianco
 item.banner.yellow.name=Stendardo giallo
 item.bed.name=Letto
@@ -1401,3 +1415,23 @@ tile.woolCarpet.silver.name=Tappeto grigio chiaro
 tile.woolCarpet.white.name=Tappeto bianco
 tile.woolCarpet.yellow.name=Tappeto giallo
 tile.workbench.name=Banco da lavoro
+tipped_arrow.effect.awkward=Freccia imbevuta strana
+tipped_arrow.effect.empty=Freccia imbevuta senza effetti
+tipped_arrow.effect.fire_resistance=Freccia di resistenza al fuoco
+tipped_arrow.effect.harming=Freccia di danno
+tipped_arrow.effect.healing=Freccia di cura
+tipped_arrow.effect.invisibility=Freccia d'invisibilità
+tipped_arrow.effect.leaping=Freccia di salto
+tipped_arrow.effect.levitation=Freccia di levitazione
+tipped_arrow.effect.luck=Freccia di fortuna
+tipped_arrow.effect.mundane=Freccia imbevuta ordinaria
+tipped_arrow.effect.night_vision=Freccia di visione notturna
+tipped_arrow.effect.poison=Freccia d'avvelenamento
+tipped_arrow.effect.regeneration=Freccia di rigenerazione
+tipped_arrow.effect.slowness=Freccia di lentezza
+tipped_arrow.effect.strength=Freccia di forza
+tipped_arrow.effect.swiftness=Freccia di velocità
+tipped_arrow.effect.thick=Freccia imbevuta densa
+tipped_arrow.effect.water=Freccia imbevuta
+tipped_arrow.effect.water_breathing=Freccia di respirazione acquatica
+tipped_arrow.effect.weakness=Freccia di debolezza

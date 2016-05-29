@@ -106,6 +106,7 @@ item.banner.green.name=crino srilanci
 item.banner.lightBlue.name=labybla srilanci
 item.banner.lime.name=pelri'o srilanci
 item.banner.magenta.name=nukni srilanci
+<<<<<<< HEAD
 item.banner.mojang.black=xekri sumdai
 item.banner.mojang.blue=blanu sumdai
 item.banner.mojang.brown=bunre sumdai
@@ -122,11 +123,14 @@ item.banner.mojang.red=xunre sumdai
 item.banner.mojang.silver=labgrusi sumdai
 item.banner.mojang.white=blabi sumdai
 item.banner.mojang.yellow=pelxu sumdai
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=narju srilanci
 item.banner.pink.name=kuctai srilanci
 item.banner.purple.name=zirpu srilanci
 item.banner.red.name=xukmi srilanci
 item.banner.silver.name=labgrusi srilanci
+<<<<<<< HEAD
 item.banner.straight_cross.black=xekri kuctai
 item.banner.straight_cross.blue=blanu kuctai
 item.banner.straight_cross.brown=bunre kuctai
@@ -143,6 +147,8 @@ item.banner.straight_cross.red=xunre kuctai
 item.banner.straight_cross.silver=labgrusi kuctai
 item.banner.straight_cross.white=blabi kuctai
 item.banner.straight_cross.yellow=pelxu kuctai
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=blabi srilanci
 item.banner.yellow.name=pelxu srilanci
 item.bed.name=ckana

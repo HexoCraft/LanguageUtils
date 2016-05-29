@@ -111,6 +111,7 @@ item.armorStand.name=แท่นวางชุดเกราะ
 item.arrow.name=ลูกธนู
 item.banner.black.name=ธงสีดำ
 item.banner.blue.name=ธงสีน้ำเงิน
+<<<<<<< HEAD
 item.banner.border.black=ขอบสีดำ
 item.banner.border.blue=ขอบสีน้ำเงิน
 item.banner.border.brown=ขอบสีน้ำตาล
@@ -406,10 +407,20 @@ item.banner.mojang.red=สิ่งสีแดง
 item.banner.mojang.silver=สิ่งสีเทาอ่อน
 item.banner.mojang.white=Mojang ธงสีขาว
 item.banner.mojang.yellow=สิ่งสีเหลือง
+=======
+item.banner.brown.name=ธงสีน้ำตาล
+item.banner.cyan.name=ธงสีฟ้าคราม
+item.banner.gray.name=ธงสีเทา
+item.banner.green.name=ธงสีเขียว
+item.banner.lightBlue.name=ธงสีฟ้า
+item.banner.lime.name=ธงสีเขียวอ่อน
+item.banner.magenta.name=ธงสีบานเย็น
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=ธงสีส้ม
 item.banner.pink.name=ธงสีชมพู
 item.banner.purple.name=ธงสีม่วง
 item.banner.red.name=ธงสีแดง
+<<<<<<< HEAD
 item.banner.rhombus.black=ข้าวหลามตัดสีดำ
 item.banner.rhombus.blue=ข้าวหลามตัดสีน้ำเงิน
 item.banner.rhombus.brown=ข้าวหลามตัดสีน้ำตาล
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=ลายฟันเลื่อยสีแด�
 item.banner.triangles_top.silver=ลายฟันเลื่อยสีเทาอ่อนด้านบน
 item.banner.triangles_top.white=ลายฟันเลื่อยสีขาวด้านบน
 item.banner.triangles_top.yellow=ลายฟันเลื่อยสีเหลืองด้านบน
+=======
+item.banner.silver.name=ธงสีเทาอ่อน
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=ธงสีขาว
 item.banner.yellow.name=ธงสีเหลือง
 item.bed.name=เตียง
@@ -1401,3 +1415,23 @@ tile.woolCarpet.silver.name=พรมสีเทาอ่อน
 tile.woolCarpet.white.name=พรม
 tile.woolCarpet.yellow.name=พรมสีเหลือง
 tile.workbench.name=โต๊ะงานช่าง
+tipped_arrow.effect.awkward=ลูกธนูอาบยา
+tipped_arrow.effect.empty=ลูกธนูอาบยา
+tipped_arrow.effect.fire_resistance=ลูกธนูอาบยาทนไฟ
+tipped_arrow.effect.harming=ลูกธนูอาบยาเสียเลือด
+tipped_arrow.effect.healing=ลูกธนูอาบยาเพิ่มเลือด
+tipped_arrow.effect.invisibility=ลูกธนูอาบยาล่องหน
+tipped_arrow.effect.leaping=ลูกธนูอาบยากระโดดสูง
+tipped_arrow.effect.levitation=ลูกธนูอาบยาลอยตัว
+tipped_arrow.effect.luck=ลูกธนูแห่งความโชคดี
+tipped_arrow.effect.mundane=ลูกธนูอาบยา
+tipped_arrow.effect.night_vision=ลูกธนูอาบยามองกลางคืน
+tipped_arrow.effect.poison=ลูกธนูอาบยาพิษ
+tipped_arrow.effect.regeneration=ลูกธนูอาบยาฟื้นฟูเลือด
+tipped_arrow.effect.slowness=ลูกธนูอาบยาความเชื่องช้า
+tipped_arrow.effect.strength=ลูกธนูอาบยาความแข็งแกร่ง
+tipped_arrow.effect.swiftness=ลูกธนูแห่งความคล่องแคล่ว
+tipped_arrow.effect.thick=ลูกธนูอาบยา
+tipped_arrow.effect.water=ลูกธนูกระจายยา
+tipped_arrow.effect.water_breathing=ลูกธนูอาบยาหายใจใต้น้ำ
+tipped_arrow.effect.weakness=ลูกธนูอาบยาความอ่อนแอ

@@ -144,6 +144,7 @@ item.banner.bricks.silver=Campo em Alvenaria Cinzento Claro
 item.banner.bricks.white=Campo em Alvenaria Branco
 item.banner.bricks.yellow=Campo em Alvenaria Amarelo
 item.banner.brown.name=Bandeira Castanha
+<<<<<<< HEAD
 item.banner.circle.black=Roundel Preto
 item.banner.circle.blue=Roundel Azul
 item.banner.circle.brown=Roundel Castanho
@@ -406,10 +407,19 @@ item.banner.mojang.red=Emblema da Mojang Vermelho
 item.banner.mojang.silver=Emblema da Mojang Cinzento Claro
 item.banner.mojang.white=Emblema da Mojang Branco
 item.banner.mojang.yellow=Emblema da Mojang Amarelo
+=======
+item.banner.cyan.name=Bandeira Azul Ciano
+item.banner.gray.name=Bandeira Cinzenta
+item.banner.green.name=Bandeira Verde
+item.banner.lightBlue.name=Bandeira Azul Clara
+item.banner.lime.name=Bandeira Verde Lima
+item.banner.magenta.name=Bandeira Magenta
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Bandeira Laranja
 item.banner.pink.name=Bandeira Rosa
 item.banner.purple.name=Bandeira Roxa
 item.banner.red.name=Bandeira Vermelha
+<<<<<<< HEAD
 item.banner.rhombus.black=Losango Preto
 item.banner.rhombus.blue=Losango Azul
 item.banner.rhombus.brown=Losango Castanho
@@ -426,6 +436,8 @@ item.banner.rhombus.red=Losango Vermelho
 item.banner.rhombus.silver=Losango Cinzento Claro
 item.banner.rhombus.white=Losango Branco
 item.banner.rhombus.yellow=Losango Amarelo
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.silver.name=Bandeira Cinzenta Clara
 item.banner.skull.black=Emblema de Caveira Preta
 item.banner.skull.blue=Emblema de Caveira Azul
@@ -1401,3 +1413,23 @@ tile.woolCarpet.silver.name=Tapete Cinzento Claro
 tile.woolCarpet.white.name=Tapete Branco
 tile.woolCarpet.yellow.name=Tapete Amarelo
 tile.workbench.name=Mesa de Trabalho
+tipped_arrow.effect.awkward=Flecha de Efeito
+tipped_arrow.effect.empty=Flecha com Efeito
+tipped_arrow.effect.fire_resistance=Flecha de Resistência ao Fogo
+tipped_arrow.effect.harming=Flecha de Dano
+tipped_arrow.effect.healing=Flecha de Cura
+tipped_arrow.effect.invisibility=Flecha de Invisibilidade
+tipped_arrow.effect.leaping=Flecha de Salto
+tipped_arrow.effect.levitation=Flecha de Levitação
+tipped_arrow.effect.luck=Flecha de Sorte
+tipped_arrow.effect.mundane=Flecha de Efeito Mundano
+tipped_arrow.effect.night_vision=Flecha de Visão Noturna
+tipped_arrow.effect.poison=Flecha de Veneno
+tipped_arrow.effect.regeneration=Flecha de Regeneração
+tipped_arrow.effect.slowness=Flecha de Lentidão
+tipped_arrow.effect.strength=Flecha de Força
+tipped_arrow.effect.swiftness=Flecha de Velocidade
+tipped_arrow.effect.thick=Flecha de Efeito Espesso
+tipped_arrow.effect.water=Flecha de Salpicos
+tipped_arrow.effect.water_breathing=Flecha de Respiração Aquática
+tipped_arrow.effect.weakness=Flecha de Fraqueza

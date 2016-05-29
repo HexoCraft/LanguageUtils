@@ -209,6 +209,7 @@ item.banner.curly_border.silver=Imeallbhord Eangach Fionnliath
 item.banner.curly_border.white=Imeallbhord Eangach Bán
 item.banner.curly_border.yellow=Imeallbhord Eangach Buí
 item.banner.cyan.name=Meirge Cian
+<<<<<<< HEAD
 item.banner.diagonal_left.black=Cléroinnte Dubh
 item.banner.diagonal_left.blue=Cléroinnte Gorm
 item.banner.diagonal_left.brown=Cléroinnte Donn
@@ -406,10 +407,18 @@ item.banner.mojang.red=Rud Dearg
 item.banner.mojang.silver=Rud Fionnliath
 item.banner.mojang.white=Rud Bán
 item.banner.mojang.yellow=Rud Buí
+=======
+item.banner.gray.name=Meirge Liath
+item.banner.green.name=Meirge Uaine
+item.banner.lightBlue.name=Meirge Bánghorm
+item.banner.lime.name=Meirge Líomach
+item.banner.magenta.name=Meirge Maigeanta
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Meirge Oráisteach
 item.banner.pink.name=Meirge Bándearg
 item.banner.purple.name=Meirge Corcra
 item.banner.red.name=Meirge Dearg
+<<<<<<< HEAD
 item.banner.rhombus.black=Muileata Dubh
 item.banner.rhombus.blue=Muileata Gorm
 item.banner.rhombus.brown=Muileata Donn
@@ -731,6 +740,9 @@ item.banner.triangles_top.red=Barr Dearg Eangach
 item.banner.triangles_top.silver=Barr Fionnliath Eangach
 item.banner.triangles_top.white=Barr Bán Eangach
 item.banner.triangles_top.yellow=Barr Buí Eangach
+=======
+item.banner.silver.name=Meirge Fionnliath
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Meirge Bán
 item.banner.yellow.name=Meirge Buí
 item.bed.name=Leaba
@@ -1401,3 +1413,23 @@ tile.woolCarpet.silver.name=Cairpéad Fionnliath
 tile.woolCarpet.white.name=Cairpéad
 tile.woolCarpet.yellow.name=Cairpéad Buí
 tile.workbench.name=Bord Ceardaíochta
+tipped_arrow.effect.awkward=Saighead Biorach
+tipped_arrow.effect.empty=Saighead Biorach
+tipped_arrow.effect.fire_resistance=Saighead na Dó-obachta
+tipped_arrow.effect.harming=Saighead an Dochair
+tipped_arrow.effect.healing=Saighead an Leighis
+tipped_arrow.effect.invisibility=Saighead na Dofheictheachta
+tipped_arrow.effect.leaping=Saighead na Léime
+tipped_arrow.effect.levitation=Saighead an Eadarbhuasaithe
+tipped_arrow.effect.luck=Saighead an Áidh
+tipped_arrow.effect.mundane=Saighead Biorach
+tipped_arrow.effect.night_vision=Saighead Radharc san Oíche
+tipped_arrow.effect.poison=Saighead na Nimhe
+tipped_arrow.effect.regeneration=Saighead na hAthghiniúna
+tipped_arrow.effect.slowness=Saighead na Moille
+tipped_arrow.effect.strength=Saighead an Nirt
+tipped_arrow.effect.swiftness=Saighead an Luais
+tipped_arrow.effect.thick=Saighead Biorach
+tipped_arrow.effect.water=Saighead Steallaidh
+tipped_arrow.effect.water_breathing=Saighead Análú in Uisce
+tipped_arrow.effect.weakness=Saighead na Laige

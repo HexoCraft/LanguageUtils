@@ -112,6 +112,7 @@ item.banner.brown.name=پرچم قهوه ای
 item.banner.green.name=پرچم سبز
 item.banner.lightBlue.name=پرچم آبی روشن
 item.banner.magenta.name=پرچم سرخابی
+<<<<<<< HEAD
 item.banner.mojang.black=چیز سیاه
 item.banner.mojang.blue=چیز آبی
 item.banner.mojang.brown=چیز قهوه ای
@@ -123,10 +124,13 @@ item.banner.mojang.purple=چیز بنفش
 item.banner.mojang.red=چیز قرمز
 item.banner.mojang.white=چیز سفید
 item.banner.mojang.yellow=چیز زرد
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=پرچم نارنجی
 item.banner.pink.name=پرچم صورتی
 item.banner.purple.name=پرچم بنفش
 item.banner.red.name=پرچم قرمز
+<<<<<<< HEAD
 item.banner.straight_cross.blue=صلیب آبی
 item.banner.straight_cross.brown=صلیب قهوه ای
 item.banner.straight_cross.cyan=صلیب آبی روشن
@@ -139,6 +143,8 @@ item.banner.straight_cross.red=صلیب سرخ
 item.banner.straight_cross.silver=صلیب خاکستری روشن
 item.banner.straight_cross.white=صلیب سفید
 item.banner.straight_cross.yellow=صلیب زرد
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=پرچم سفید
 item.banner.yellow.name=پرچم زرد
 item.bed.name=تخت خواب

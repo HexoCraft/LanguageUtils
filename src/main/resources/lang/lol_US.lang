@@ -111,6 +111,7 @@ item.armorStand.name=Stick hooman
 item.arrow.name=ERROW
 item.banner.black.name=blakc bahnor
 item.banner.blue.name=bloo bahnor
+<<<<<<< HEAD
 item.banner.border.black=Blak Burdur
 item.banner.border.blue=Blu Brdur
 item.banner.border.brown=brown burder
@@ -406,10 +407,20 @@ item.banner.mojang.red=Redz thng
 item.banner.mojang.silver=Lite Grey thng
 item.banner.mojang.white=Wite thng
 item.banner.mojang.yellow=Yello thng
+=======
+item.banner.brown.name=broun bahnor
+item.banner.cyan.name=nyan bahnor
+item.banner.gray.name=grai bahnor
+item.banner.green.name=grene bahnor
+item.banner.lightBlue.name=ligt bloo bahnor
+item.banner.lime.name=liem bahnor
+item.banner.magenta.name=megentre bahnor
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=oreng bahnor
 item.banner.pink.name=pinek bahnor
 item.banner.purple.name=purrrpel bahnor
 item.banner.red.name=Red bahnor
+<<<<<<< HEAD
 item.banner.rhombus.black=blak losng
 item.banner.rhombus.blue=Blu losung
 item.banner.rhombus.brown=broun lozeng
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Red Cheef Indentd
 item.banner.triangles_top.silver=Lit gray Cheef Indentd
 item.banner.triangles_top.white=Wuhite Cheef Indentd
 item.banner.triangles_top.yellow=Yallo Cheef Indentd
+=======
+item.banner.silver.name=ligt grai bahnor
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=blenk bahnor
 item.banner.yellow.name=yelloh bahnor
 item.bed.name=Sleeper
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=Lite Gray Cat Rug
 tile.woolCarpet.white.name=Cat Rug
 tile.woolCarpet.yellow.name=Yello Cat Rug
 tile.workbench.name=Krafting Tabal
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Shooty Tihng
+tipped_arrow.effect.empty=Speshul Pointy Shooty Tihng
+tipped_arrow.effect.fire_resistance=Speshul Shooty Tignh Dat Makez u Fire Rezistant
+tipped_arrow.effect.harming=Speshul Shooty Tignh Dat Makez u Ouch
+tipped_arrow.effect.healing=Speshul Shooty Tignh Dat Makez u Heal
+tipped_arrow.effect.invisibility=Speshul Shooty Tignh Dat Makez u Invizibul
+tipped_arrow.effect.leaping=Speshul Shooty Tignh Dat Makez u Bunny Cat
+tipped_arrow.effect.levitation=Speshul Shooty Tignh Dat Makez u Flai
+tipped_arrow.effect.luck=Speshul Shooty Tignh Dat Makez u LOL
+tipped_arrow.effect.mundane=Shooty Tihng
+tipped_arrow.effect.night_vision=Speshul Shooty Tignh Dat Makez u Cat Vishun
+tipped_arrow.effect.poison=Speshul Shooty Tignh Dat Makez u Puiznd
+tipped_arrow.effect.regeneration=Speshul Shooty Tignh Dat Makez u Reg
+tipped_arrow.effect.slowness=Speshul Shooty Tignh Dat Makez u Slo
+tipped_arrow.effect.strength=Speshul Shooty Tignh Dat Makez u Powahful
+tipped_arrow.effect.swiftness=Speshul Shooty Tignh Dat Makez u Fazt
+tipped_arrow.effect.thick=Shooty Tihng
+tipped_arrow.effect.water=Speshul Shooty Tignh Dat Splashes
+tipped_arrow.effect.water_breathing=Speshul Shooty Tignh Dat Makez u Breathin undr Watr
+tipped_arrow.effect.weakness=Speshul Shooty Tignh Dat Makez u Week
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

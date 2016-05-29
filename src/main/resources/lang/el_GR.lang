@@ -111,6 +111,7 @@ item.armorStand.name=Καλόγερος για Πανοπλία
 item.arrow.name=Βέλος
 item.banner.black.name=Μαύρo Λάβαρο
 item.banner.blue.name=Μπλε Λάβαρο
+<<<<<<< HEAD
 item.banner.bricks.black=Μαύρο πεδίο Kτησίματος
 item.banner.bricks.blue=Μπλε πεδίο Kτησίματος
 item.banner.bricks.brown=Καφέ πεδίο Kτησίματος
@@ -294,10 +295,20 @@ item.banner.mojang.red=Κόκκινο σήμα της Mojang
 item.banner.mojang.silver=Ανοιχτό Γκρι σήμα της Mojang
 item.banner.mojang.white=Λευκό σήμα της Mojang
 item.banner.mojang.yellow=Κίτρινο σήμα της Mojang
+=======
+item.banner.brown.name=Καφέ Λάβαρο
+item.banner.cyan.name=Κυανό Λάβαρο
+item.banner.gray.name=Γκρι Λάβαρο
+item.banner.green.name=Πράσινο Λάβαρο
+item.banner.lightBlue.name=Ανοικτό Μπλε Λάβαρο
+item.banner.lime.name=Λαχανί Λάβαρο
+item.banner.magenta.name=Φούξια Λάβαρο
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Πορτοκαλί Λάβαρο
 item.banner.pink.name=Ροζ Λάβαρο
 item.banner.purple.name=Μωβ Λάβαρο
 item.banner.red.name=Κόκκινο Λάβαρο
+<<<<<<< HEAD
 item.banner.rhombus.black=Μαύρος Ρόμβος
 item.banner.rhombus.blue=Μπλέ Ρόμβος
 item.banner.rhombus.brown=Καφέ Ρόμβος
@@ -619,6 +630,9 @@ item.banner.triangles_top.red=Κόκκινη οδοντωτή κορυφή
 item.banner.triangles_top.silver=Ανοιχτό γκρι οδοντωτή κορυφή
 item.banner.triangles_top.white=Άσπρη οδοντωτή κορυφή
 item.banner.triangles_top.yellow=Κίτρινη οδοντωτή κορυφή
+=======
+item.banner.silver.name=Ανοικτό Γκρι Λάβαρο
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Λευκό Λάβαρο
 item.banner.yellow.name=Κίτρινο Λάβαρο
 item.bed.name=Κρεβάτι
@@ -1289,3 +1303,26 @@ tile.woolCarpet.silver.name=Ανοιχτό γκρι χαλί
 tile.woolCarpet.white.name=Χαλί
 tile.woolCarpet.yellow.name=Κίτρινο χαλί
 tile.workbench.name=Πάγκος Εργασίας
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Εμποτισμένο Βέλος
+tipped_arrow.effect.empty=Εμποτισμένο Βέλος
+tipped_arrow.effect.fire_resistance=Βέλος της Πυροπροστασίας
+tipped_arrow.effect.harming=Eπώδυνο Βέλος
+tipped_arrow.effect.healing=Βέλος της Θεραπείας
+tipped_arrow.effect.invisibility=Βέλος της Αορατότητας
+tipped_arrow.effect.leaping=Βέλος Αλμάτων
+tipped_arrow.effect.levitation=Βέλος Ανύψωσης
+tipped_arrow.effect.luck=Βέλος της τύχης
+tipped_arrow.effect.mundane=Εμποτισμένο Βέλος
+tipped_arrow.effect.night_vision=Βέλος Νυχτερινής Όρασης
+tipped_arrow.effect.poison=Δηλητηριασμένο Βέλος
+tipped_arrow.effect.regeneration=Βέλος της Αναζωογόνησης
+tipped_arrow.effect.slowness=Βέλος της Βραδύτητας
+tipped_arrow.effect.strength=Ενδυναμωτικό Βέλος
+tipped_arrow.effect.swiftness=Βέλος της Επιτάχυνσης
+tipped_arrow.effect.thick=Εμποτισμένο Βέλος
+tipped_arrow.effect.water=Βέλος Πιτσiλίσματος
+tipped_arrow.effect.water_breathing=Βέλος Υποβρύχιας Αναπνοής
+tipped_arrow.effect.weakness=Αποδυναμωτικό Βέλος
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

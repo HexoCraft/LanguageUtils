@@ -111,6 +111,7 @@ item.armorStand.name=Kirasoportilo
 item.arrow.name=Sago
 item.banner.black.name=Nigra flago
 item.banner.blue.name=Blua flago
+<<<<<<< HEAD
 item.banner.border.black=Nigra flagbordero
 item.banner.border.blue=Blua flagbordero
 item.banner.border.brown=Bruna flagbordero
@@ -406,10 +407,20 @@ item.banner.mojang.red=Ruĝa Aĵo
 item.banner.mojang.silver=Helgriza aĵo
 item.banner.mojang.white=Blanka Aĵo
 item.banner.mojang.yellow=Flava aĵo
+=======
+item.banner.brown.name=Bruna flago
+item.banner.cyan.name=Turkisa flago
+item.banner.gray.name=Griza flago
+item.banner.green.name=Verda flago
+item.banner.lightBlue.name=Helblua flago
+item.banner.lime.name=Helverda flago
+item.banner.magenta.name=Magenta flago
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Oranĝkolora flago
 item.banner.pink.name=Roza flago
 item.banner.purple.name=Viola flago
 item.banner.red.name=Ruĝa flago
+<<<<<<< HEAD
 item.banner.rhombus.black=Nigra rombo
 item.banner.rhombus.blue=Blua rombo
 item.banner.rhombus.brown=Bruna rombo
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Ruĝa pinta kapo
 item.banner.triangles_top.silver=Helgriza pinta kapo
 item.banner.triangles_top.white=Blanka pinta kapo
 item.banner.triangles_top.yellow=Flava pinta kapo
+=======
+item.banner.silver.name=Helgriza flago
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Blanka flago
 item.banner.yellow.name=Flava flago
 item.bed.name=Lito
@@ -1401,3 +1415,23 @@ tile.woolCarpet.silver.name=Helgriza tapiŝo
 tile.woolCarpet.white.name=Tapiŝo
 tile.woolCarpet.yellow.name=Flava tapiŝo
 tile.workbench.name=Labortablo
+tipped_arrow.effect.awkward=Eliksirsago
+tipped_arrow.effect.empty=Eliksirsago
+tipped_arrow.effect.fire_resistance=Sago de fajrorezisto
+tipped_arrow.effect.harming=Sago de Lezado
+tipped_arrow.effect.healing=Sago de Sanigado
+tipped_arrow.effect.invisibility=Sago de nevidebleco
+tipped_arrow.effect.leaping=Sago de saltado
+tipped_arrow.effect.levitation=Sago de ŝvebado
+tipped_arrow.effect.luck=Sago de bonŝanco
+tipped_arrow.effect.mundane=Eliksirsago
+tipped_arrow.effect.night_vision=Sago de noktvido
+tipped_arrow.effect.poison=Sago de Veneno
+tipped_arrow.effect.regeneration=Sago de Resanigo
+tipped_arrow.effect.slowness=Sago de Malrapideco
+tipped_arrow.effect.strength=Sago de Forteco
+tipped_arrow.effect.swiftness=Sago de rapideco
+tipped_arrow.effect.thick=Eliksirsago
+tipped_arrow.effect.water=Sago de ŝprucado
+tipped_arrow.effect.water_breathing=Sago de submarspirado
+tipped_arrow.effect.weakness=Sago de malforteco

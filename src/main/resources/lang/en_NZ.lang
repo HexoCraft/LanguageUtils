@@ -111,6 +111,7 @@ item.armorStand.name=Armour Stand
 item.arrow.name=Arrow
 item.banner.black.name=Black Banner
 item.banner.blue.name=Blue Banner
+<<<<<<< HEAD
 item.banner.border.black=Black Bordure
 item.banner.border.blue=Blue Bordure
 item.banner.border.brown=Brown Bordure
@@ -406,10 +407,20 @@ item.banner.mojang.red=Red Thing
 item.banner.mojang.silver=Light Grey Thing
 item.banner.mojang.white=White Thing
 item.banner.mojang.yellow=Yellow Thing
+=======
+item.banner.brown.name=Brown Banner
+item.banner.cyan.name=Cyan Banner
+item.banner.gray.name=Grey Banner
+item.banner.green.name=Green Banner
+item.banner.lightBlue.name=Light Blue Banner
+item.banner.lime.name=Lime Banner
+item.banner.magenta.name=Magenta Banner
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Orange Banner
 item.banner.pink.name=Pink Banner
 item.banner.purple.name=Purple Banner
 item.banner.red.name=Red Banner
+<<<<<<< HEAD
 item.banner.rhombus.black=Black Lozenge
 item.banner.rhombus.blue=Blue Lozenge
 item.banner.rhombus.brown=Brown Lozenge
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Red Chief Indented
 item.banner.triangles_top.silver=Light Grey Chief Indented
 item.banner.triangles_top.white=White Chief Indented
 item.banner.triangles_top.yellow=Yellow Chief Indented
+=======
+item.banner.silver.name=Light Grey Banner
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=White Banner
 item.banner.yellow.name=Yellow Banner
 item.bed.name=Bed
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=Light Grey Carpet
 tile.woolCarpet.white.name=White Carpet
 tile.woolCarpet.yellow.name=Yellow Carpet
 tile.workbench.name=Crafting Table
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Awkward Potion Tipped Arrow
+tipped_arrow.effect.empty=Potion Tipped Arrow
+tipped_arrow.effect.fire_resistance=Arrow of Fire Resistance
+tipped_arrow.effect.harming=Arrow of Harming
+tipped_arrow.effect.healing=Arrow of Healing
+tipped_arrow.effect.invisibility=Arrow of Invisibility
+tipped_arrow.effect.leaping=Arrow of Leaping
+tipped_arrow.effect.levitation=Arrow of Levitation
+tipped_arrow.effect.luck=Arrow of Luck
+tipped_arrow.effect.mundane=Mundane Potion Tipped Arrow
+tipped_arrow.effect.night_vision=Arrow of Night Vision
+tipped_arrow.effect.poison=Arrow of Poison
+tipped_arrow.effect.regeneration=Arrow of Regeneration
+tipped_arrow.effect.slowness=Arrow of Slowness
+tipped_arrow.effect.strength=Arrow of Strength
+tipped_arrow.effect.swiftness=Arrow of Swiftness
+tipped_arrow.effect.thick=Thick Potion Tipped Arrow
+tipped_arrow.effect.water=Arrow of Splashing
+tipped_arrow.effect.water_breathing=Arrow of Water Breathing
+tipped_arrow.effect.weakness=Arrow of Weakness
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

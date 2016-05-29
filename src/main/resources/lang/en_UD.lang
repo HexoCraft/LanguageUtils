@@ -111,6 +111,7 @@ item.armorStand.name=puɐʇS ɹnoɯɹⱯ
 item.arrow.name=ʍoɹɹⱯ
 item.banner.black.name=ɹǝuuɐq ʞɔɐꞁq
 item.banner.blue.name=ɹǝuuɐq ǝnꞁq
+<<<<<<< HEAD
 item.banner.border.black=ǝɹnpɹoq ʞɔɐꞁq
 item.banner.border.blue=ǝɹnpɹoq ǝnꞁq
 item.banner.border.brown=ǝɹnpɹoq uʍoɹq
@@ -406,10 +407,20 @@ item.banner.mojang.red=ƃuᴉɥ⟘ pǝᴚ
 item.banner.mojang.silver=ƃuᴉɥ⟘ ʎǝɹ⅁ ʇɥƃᴉꞀ
 item.banner.mojang.white=ƃuᴉɥ⟘ ǝʇᴉɥM
 item.banner.mojang.yellow=ƃuᴉɥ⟘ ʍoꞁꞁǝ⅄
+=======
+item.banner.brown.name=ɹǝuuɐq uʍoɹq
+item.banner.cyan.name=ɹǝuuɐq uɐʎƆ
+item.banner.gray.name=ɹǝuuɐq ʎǝɹ⅁
+item.banner.green.name=ɹǝuuɐq uǝǝɹ⅁
+item.banner.lightBlue.name=ɹǝuuɐq ǝnꞁq ʇɥƃᴉꞀ
+item.banner.lime.name=ɹǝuuɐq ǝɯᴉꞀ
+item.banner.magenta.name=ɹǝuuɐq ɐʇuǝƃɐW
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=ɹǝuuɐq ǝƃuɐɹO
 item.banner.pink.name=ɹǝuuɐq ʞuᴉԀ
 item.banner.purple.name=ɹǝuuɐq ǝꞁdɹnԀ
 item.banner.red.name=ɹǝuuɐq pǝᴚ
+<<<<<<< HEAD
 item.banner.rhombus.black=ǝƃuǝzoꞀ ʞɔɐꞁq
 item.banner.rhombus.blue=ǝƃuǝzoꞀ ǝnꞁq
 item.banner.rhombus.brown=ǝƃuǝzoꞀ uʍoɹq
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=pǝʇuǝpuI ǝsɐq pǝᴚ
 item.banner.triangles_top.silver=pǝʇuǝpuI ǝsɐq ʎǝɹ⅁ ʇɥƃᴉꞀ
 item.banner.triangles_top.white=pǝʇuǝpuI ǝsɐq ǝʇᴉɥM
 item.banner.triangles_top.yellow=pǝʇuǝpuI ǝsɐq ʍoꞁꞁǝ⅄
+=======
+item.banner.silver.name=ɹǝuuɐq ʎǝɹ⅁ ʇɥƃᴉꞀ
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=ɹǝuuɐq ǝʇᴉɥM
 item.banner.yellow.name=ɹǝuuɐq ʍoꞁꞁǝ⅄
 item.bed.name=pǝq
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=ʇǝdɹɐƆ ʎǝɹ⅁ ʇɥƃᴉꞀ
 tile.woolCarpet.white.name=ʇǝdɹɐƆ
 tile.woolCarpet.yellow.name=ʇǝdɹɐƆ ʍoꞁꞁǝ⅄
 tile.workbench.name=ǝꞁqɐ⟘ ƃuᴉʇɟɐɹƆ
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=ʍoɹɹⱯ pǝddᴉ⟘
+tipped_arrow.effect.empty=ʍoɹɹⱯ pǝddᴉ⟘
+tipped_arrow.effect.fire_resistance=ǝɔuɐʇsᴉsǝᴚ ǝɹᴉℲ ɟo ʍoɹɹⱯ
+tipped_arrow.effect.harming=ƃuᴉɯɹɐH ɟo ʍoɹɹⱯ
+tipped_arrow.effect.healing=ƃuᴉꞁɐǝH ɟo ʍoɹɹⱯ
+tipped_arrow.effect.invisibility=ʎʇᴉꞁᴉqᴉsᴉʌuI ɟo ʍoɹɹⱯ
+tipped_arrow.effect.leaping=ƃuᴉdɐǝꞀ ɟo ʍoɹɹⱯ
+tipped_arrow.effect.levitation=uoᴉʇɐʇᴉʌǝꞀ ɟo ʍoɹɹⱯ
+tipped_arrow.effect.luck=ʞɔnꞀ ɟo ʍoɹɹⱯ
+tipped_arrow.effect.mundane=ʍoɹɹⱯ pǝddᴉ⟘
+tipped_arrow.effect.night_vision=uoᴉsᴉΛ ʇɥƃᴉN ɟo ʍoɹɹⱯ
+tipped_arrow.effect.poison=uosᴉoԀ ɟo ʍoɹɹⱯ
+tipped_arrow.effect.regeneration=uoᴉʇɐɹǝuǝƃǝᴚ ɟo ʍoɹɹⱯ
+tipped_arrow.effect.slowness=ssǝuʍoꞁS ɟo ʍoɹɹⱯ
+tipped_arrow.effect.strength=ɥʇƃuǝɹʇS ɟo ʍoɹɹⱯ
+tipped_arrow.effect.swiftness=ssǝuʇɟᴉʍS ɟo ʍoɹɹⱯ
+tipped_arrow.effect.thick=ʍoɹɹⱯ pǝddᴉ⟘
+tipped_arrow.effect.water=ƃuᴉɥsɐꞁdS ɟo ʍoɹɹⱯ
+tipped_arrow.effect.water_breathing=ƃuᴉɥʇɐǝɹq ɹǝʇɐM ɟo ʍoɹɹⱯ
+tipped_arrow.effect.weakness=ssǝuʞɐǝM ɟo ʍoɹɹⱯ
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
