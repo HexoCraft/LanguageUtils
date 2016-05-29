@@ -118,6 +118,7 @@ item.banner.green.name=Baner gwyrdd
 item.banner.lightBlue.name=Baner glas golau
 item.banner.lime.name=Baner calch
 item.banner.magenta.name=Baner magenta
+<<<<<<< HEAD
 item.banner.mojang.black=Peth ddu
 item.banner.mojang.blue=Peth glas
 item.banner.mojang.brown=Peth brown
@@ -134,10 +135,13 @@ item.banner.mojang.red=Peth coch
 item.banner.mojang.silver=Peth llwyd golau
 item.banner.mojang.white=Peth gwyn
 item.banner.mojang.yellow=Peth melyn
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Baner oren
 item.banner.pink.name=Baner pinc
 item.banner.purple.name=Baner porffor
 item.banner.red.name=Baner coch
+<<<<<<< HEAD
 item.banner.rhombus.black=Losinen ddu
 item.banner.rhombus.blue=Losinen glas
 item.banner.rhombus.brown=Losinen brown
@@ -171,6 +175,9 @@ item.banner.straight_cross.red=Croes coch
 item.banner.straight_cross.silver=Croes llwyd golau
 item.banner.straight_cross.white=Croes gwyn
 item.banner.straight_cross.yellow=Croes melyn
+=======
+item.banner.silver.name=Baner llwyd golau
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Baner gwyn
 item.banner.yellow.name=Baner melyn
 item.bed.name=Gwely
@@ -840,3 +847,23 @@ tile.woolCarpet.silver.name=Carped Llwyd Golau
 tile.woolCarpet.white.name=Carped
 tile.woolCarpet.yellow.name=Carped Melyn
 tile.workbench.name=Bwrdd Crefft
+tipped_arrow.effect.awkward=Saeth wedi Drochi
+tipped_arrow.effect.empty=Saeth wedi Drochi
+tipped_arrow.effect.fire_resistance=Saeth Gwrthwynebiad Tân
+tipped_arrow.effect.harming=Saeth Niweidio
+tipped_arrow.effect.healing=Saeth Iachâd
+tipped_arrow.effect.invisibility=Saeth o Anweledigaeth
+tipped_arrow.effect.leaping=Saeth Neidio
+tipped_arrow.effect.levitation=Saeth o Levitation
+tipped_arrow.effect.luck=Saeth o Lwc
+tipped_arrow.effect.mundane=Saeth wedi Drochi
+tipped_arrow.effect.night_vision=Saeth Gweledigaeth y Nos
+tipped_arrow.effect.poison=Saeth Gwenwyn
+tipped_arrow.effect.regeneration=Saeth o Adfywiaeth
+tipped_arrow.effect.slowness=Saeth o Arafiad
+tipped_arrow.effect.strength=Saeth o Chryfder
+tipped_arrow.effect.swiftness=Saeth o Gyflymiad
+tipped_arrow.effect.thick=Saeth wedi Drochi
+tipped_arrow.effect.water=Saeth o sblasio
+tipped_arrow.effect.water_breathing=Saeth Anadlu Dŵr
+tipped_arrow.effect.weakness=Saeth o Wendid

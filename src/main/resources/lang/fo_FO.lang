@@ -108,6 +108,7 @@ item.armorStand.name=Brynjuhaldari
 item.arrow.name=Ørvur
 item.banner.black.name=Svart merki
 item.banner.blue.name=Blátt merki
+<<<<<<< HEAD
 item.banner.border.black=Svartur bordi
 item.banner.border.blue=Bláur bordi
 item.banner.border.brown=Brúnur bordi
@@ -403,10 +404,20 @@ item.banner.mojang.red=Reyður lutur
 item.banner.mojang.silver=Ljósagráur lutur
 item.banner.mojang.white=Hvítur lutur
 item.banner.mojang.yellow=Gulur lutur
+=======
+item.banner.brown.name=Brúnt merki
+item.banner.cyan.name=Blágrønt merki
+item.banner.gray.name=Grátt merki
+item.banner.green.name=Grønt merki
+item.banner.lightBlue.name=Ljósablátt merki
+item.banner.lime.name=Leimgrønt merki
+item.banner.magenta.name=Viólreytt merki
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Appilsingult merki
 item.banner.pink.name=Ljósareytt merki
 item.banner.purple.name=Lilla merki
 item.banner.red.name=Reytt merki
+<<<<<<< HEAD
 item.banner.rhombus.black=Svørt romba
 item.banner.rhombus.blue=Blá romba
 item.banner.rhombus.brown=Brún romba
@@ -728,6 +739,9 @@ item.banner.triangles_top.red=Reyðir tindar ovast
 item.banner.triangles_top.silver=Ljósagráir tindar ovast
 item.banner.triangles_top.white=Hvítir tindar ovast
 item.banner.triangles_top.yellow=Gulir tindar ovast
+=======
+item.banner.silver.name=Ljósagrátt merki
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Hvítt merki
 item.banner.yellow.name=Gult merki
 item.bed.name=Song
@@ -1359,3 +1373,10 @@ tile.woolCarpet.silver.name=Ljósagrátt teppi
 tile.woolCarpet.white.name=Teppi
 tile.woolCarpet.yellow.name=Gult teppi
 tile.workbench.name=Arbeiðsborð
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.levitation=Sveimiørvur
+tipped_arrow.effect.luck=Eydnuørvur
+tipped_arrow.effect.strength=Styrkisørvur
+tipped_arrow.effect.weakness=Veikleikaørvur
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

@@ -111,6 +111,7 @@ item.armorStand.name=Douger houarnwisk
 item.arrow.name=Bir
 item.banner.black.name=Banniel du
 item.banner.blue.name=Banniel glas
+<<<<<<< HEAD
 item.banner.border.black=Bevenn sabel
 item.banner.border.blue=Bevenn glazur
 item.banner.border.brown=Bevenn gell
@@ -406,10 +407,20 @@ item.banner.mojang.red=Arouez en gul
 item.banner.mojang.silver=Arouez arc'hant griz
 item.banner.mojang.white=Arouez arc'hant
 item.banner.mojang.yellow=Arouez aour
+=======
+item.banner.brown.name=Banniel gell
+item.banner.cyan.name=Banniel sian
+item.banner.gray.name=Banniel griz
+item.banner.green.name=Banniel gwer
+item.banner.lightBlue.name=Banniel glas sklaer
+item.banner.lime.name=Banniel gwer-melen
+item.banner.magenta.name=Banniel majenta
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Banniel orañjez
 item.banner.pink.name=Banniel roz
 item.banner.purple.name=Banniel mouk
 item.banner.red.name=Banniel ruz
+<<<<<<< HEAD
 item.banner.rhombus.black=Talbennan sabel
 item.banner.rhombus.blue=Talbennan glazur
 item.banner.rhombus.brown=Talbennan gell
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Milginoù en gul ouzh kab
 item.banner.triangles_top.silver=Milginoù arc'hant griz ouzh kab
 item.banner.triangles_top.white=Milginoù arc'hant ouzh kab
 item.banner.triangles_top.yellow=Milginoù aour ouzh kab
+=======
+item.banner.silver.name=Banniel griz sklaer
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Banniel gwenn
 item.banner.yellow.name=Banniel melen
 item.bed.name=Gwele
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=Pallenn griz sklaer
 tile.woolCarpet.white.name=Pallenn-leur
 tile.woolCarpet.yellow.name=Pallenn velen
 tile.workbench.name=Taol aozañ
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Bir gant efedoù
+tipped_arrow.effect.empty=Bir lemm
+tipped_arrow.effect.fire_resistance=Bir dalc'husted d'an tan
+tipped_arrow.effect.harming=Bir freuz
+tipped_arrow.effect.healing=Bir pareañ
+tipped_arrow.effect.invisibility=Bir diweladusted
+tipped_arrow.effect.leaping=Bir lammat
+tipped_arrow.effect.levitation=Bir nijal
+tipped_arrow.effect.luck=Bir chañs
+tipped_arrow.effect.mundane=Bir lemm
+tipped_arrow.effect.night_vision=Bir gwelet en noz
+tipped_arrow.effect.poison=Bir ampoezonet
+tipped_arrow.effect.regeneration=Bir empareañ
+tipped_arrow.effect.slowness=Bir gorrekadur
+tipped_arrow.effect.strength=Bir kreñvder
+tipped_arrow.effect.swiftness=Bir primder
+tipped_arrow.effect.thick=Bir gant efedoù
+tipped_arrow.effect.water=Bir strinkañ
+tipped_arrow.effect.water_breathing=Bir analañ dindan an dour
+tipped_arrow.effect.weakness=Bir gwander
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

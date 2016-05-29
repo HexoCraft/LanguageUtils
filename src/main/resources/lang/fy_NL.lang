@@ -111,6 +111,7 @@ item.armorStand.name=Wapenrêstinghâlder
 item.arrow.name=Pylk
 item.banner.black.name=Swarte banier
 item.banner.blue.name=Blauwe banier
+<<<<<<< HEAD
 item.banner.border.black=Swarte seam
 item.banner.border.blue=Blauwe seam
 item.banner.border.brown=Brune seam
@@ -406,10 +407,20 @@ item.banner.mojang.red=Mei read Mojang-logo beset
 item.banner.mojang.silver=Mei ljochtgriis Mojang-logo beset
 item.banner.mojang.white=Mei wyt Mojang-logo beset
 item.banner.mojang.yellow=Mei giel Mojang-logo beset
+=======
+item.banner.brown.name=Brune banier
+item.banner.cyan.name=Syane banier
+item.banner.gray.name=Grize banier
+item.banner.green.name=Griene banier
+item.banner.lightBlue.name=Ljochtblauwe banier
+item.banner.lime.name=Ljochtgriene banier
+item.banner.magenta.name=Magenta banier
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Oranje banier
 item.banner.pink.name=Rôze banier
 item.banner.purple.name=Pearze banier
 item.banner.red.name=Reade banier
+<<<<<<< HEAD
 item.banner.rhombus.black=Swart rút
 item.banner.rhombus.blue=Blau rút
 item.banner.rhombus.brown=Brún rút
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Reade úttoske boppestreek
 item.banner.triangles_top.silver=Ljochtgrize úttoske boppestreek
 item.banner.triangles_top.white=Wite úttoske boppestreek
 item.banner.triangles_top.yellow=Giele úttoske boppestreek
+=======
+item.banner.silver.name=Ljochtgrize banier
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Wite banier
 item.banner.yellow.name=Giele banier
 item.bed.name=Bêd
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=Ljochtgriis tapyt
 tile.woolCarpet.white.name=Tapyt
 tile.woolCarpet.yellow.name=Giel tapyt
 tile.workbench.name=Wurkbank
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Dipte pylk
+tipped_arrow.effect.empty=Dipte pylk
+tipped_arrow.effect.fire_resistance=Pylk fan fjoerwjerstân
+tipped_arrow.effect.harming=Pylk fan ferwûning
+tipped_arrow.effect.healing=Pylk fan genêzing
+tipped_arrow.effect.invisibility=Pylk fan ûnsichtberens
+tipped_arrow.effect.leaping=Pylk fan ljepping
+tipped_arrow.effect.levitation=Pylk fan sweving
+tipped_arrow.effect.luck=Pylk fan lok
+tipped_arrow.effect.mundane=Dipte pylk
+tipped_arrow.effect.night_vision=Pylk fan nachtsicht
+tipped_arrow.effect.poison=Pylk fan fergif
+tipped_arrow.effect.regeneration=Pylk fan regeneraasje
+tipped_arrow.effect.slowness=Pylk fan tragens
+tipped_arrow.effect.strength=Pylk fan krêft
+tipped_arrow.effect.swiftness=Pylk fan fluchens
+tipped_arrow.effect.thick=Dipte pylk
+tipped_arrow.effect.water=Pylk fan spatting
+tipped_arrow.effect.water_breathing=Pylk fan ûnderwetter sykhelje
+tipped_arrow.effect.weakness=Pylk fan swakkens
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

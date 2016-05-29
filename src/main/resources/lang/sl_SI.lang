@@ -111,6 +111,7 @@ item.armorStand.name=Stojalo za oklep
 item.arrow.name=Puščica
 item.banner.black.name=Črn prapor
 item.banner.blue.name=Moder prapor
+<<<<<<< HEAD
 item.banner.border.black=Črna obroba
 item.banner.border.blue=Modra obroba
 item.banner.border.brown=Rjava obroba
@@ -406,10 +407,20 @@ item.banner.mojang.red=Rdeči Mojang znak
 item.banner.mojang.silver=Svetlo sivi Mojang znak
 item.banner.mojang.white=Beli Mojang znak
 item.banner.mojang.yellow=Rumeni Mojang znak
+=======
+item.banner.brown.name=Rjav prapor
+item.banner.cyan.name=Turkizen prapor
+item.banner.gray.name=Siv prapor
+item.banner.green.name=Zelen prapor
+item.banner.lightBlue.name=Svetlo moder prapor
+item.banner.lime.name=Svetlo zelen prapor
+item.banner.magenta.name=Škrlaten prapor
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Oranžen prapor
 item.banner.pink.name=Roza prapor
 item.banner.purple.name=Vijoličen prapor
 item.banner.red.name=Rdeč prapor
+<<<<<<< HEAD
 item.banner.rhombus.black=Črn srčni ščit
 item.banner.rhombus.blue=Moder srčni ščit
 item.banner.rhombus.brown=Rjav srčni ščit
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Rdeča zgornja pokrovača
 item.banner.triangles_top.silver=Svetlo siva zgornja pokrovača
 item.banner.triangles_top.white=Bela zgornja pokrovača
 item.banner.triangles_top.yellow=Rumena zgornja pokrovača
+=======
+item.banner.silver.name=Svetlo siv prapor
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Bel prapor
 item.banner.yellow.name=Rumen prapor
 item.bed.name=Postelja
@@ -1401,3 +1415,23 @@ tile.woolCarpet.silver.name=Svetlo siva preproga
 tile.woolCarpet.white.name=Preproga
 tile.woolCarpet.yellow.name=Rumena preproga
 tile.workbench.name=Delovna miza
+tipped_arrow.effect.awkward=Strupena puščica
+tipped_arrow.effect.empty=Strupena puščica
+tipped_arrow.effect.fire_resistance=Puščica odpornosti proti ognju
+tipped_arrow.effect.harming=Puščica škodovanja
+tipped_arrow.effect.healing=Puščica zdravljenja
+tipped_arrow.effect.invisibility=Puščica nevidnosti
+tipped_arrow.effect.leaping=Puščica skakanja
+tipped_arrow.effect.levitation=Puščica lebdenja
+tipped_arrow.effect.luck=Puščica sreče
+tipped_arrow.effect.mundane=Strupena puščica
+tipped_arrow.effect.night_vision=Puščica nočnega vida
+tipped_arrow.effect.poison=Strupena puščica
+tipped_arrow.effect.regeneration=Puščica regeneracije
+tipped_arrow.effect.slowness=Puščica počasnosti
+tipped_arrow.effect.strength=Puščica moči
+tipped_arrow.effect.swiftness=Puščica hitrosti
+tipped_arrow.effect.thick=Strupena puščica
+tipped_arrow.effect.water=Puščica škropljenja
+tipped_arrow.effect.water_breathing=Puščica podvodnega dihanja
+tipped_arrow.effect.weakness=Puščica šibkosti

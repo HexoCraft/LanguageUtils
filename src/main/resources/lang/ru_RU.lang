@@ -111,6 +111,7 @@ item.armorStand.name=Стойка для брони
 item.arrow.name=Стрела
 item.banner.black.name=Чёрный флаг
 item.banner.blue.name=Синий флаг
+<<<<<<< HEAD
 item.banner.border.black=Чёрная кайма
 item.banner.border.blue=Синяя кайма
 item.banner.border.brown=Коричневая кайма
@@ -406,10 +407,20 @@ item.banner.mojang.red=Красное нечто
 item.banner.mojang.silver=Светло-серое нечто
 item.banner.mojang.white=Белое нечто
 item.banner.mojang.yellow=Жёлтое нечто
+=======
+item.banner.brown.name=Коричневый флаг
+item.banner.cyan.name=Бирюзовый флаг
+item.banner.gray.name=Серый флаг
+item.banner.green.name=Зелёный флаг
+item.banner.lightBlue.name=Голубой флаг
+item.banner.lime.name=Лаймовый флаг
+item.banner.magenta.name=Пурпурный флаг
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Оранжевый флаг
 item.banner.pink.name=Розовый флаг
 item.banner.purple.name=Фиолетовый флаг
 item.banner.red.name=Красный флаг
+<<<<<<< HEAD
 item.banner.rhombus.black=Чёрный ромб
 item.banner.rhombus.blue=Синий ромб
 item.banner.rhombus.brown=Коричневый ромб
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Красная зубчатая глава
 item.banner.triangles_top.silver=Светло-серая зубчатая глава
 item.banner.triangles_top.white=Белая зубчатая глава
 item.banner.triangles_top.yellow=Жёлтая зубчатая глава
+=======
+item.banner.silver.name=Светло-серый флаг
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Белый флаг
 item.banner.yellow.name=Жёлтый флаг
 item.bed.name=Кровать
@@ -1401,3 +1415,23 @@ tile.woolCarpet.silver.name=Светло-серый ковёр
 tile.woolCarpet.white.name=Ковёр
 tile.woolCarpet.yellow.name=Жёлтый ковёр
 tile.workbench.name=Верстак
+tipped_arrow.effect.awkward=Стрела обработанная заурядным зельем
+tipped_arrow.effect.empty=Обработанная стрела
+tipped_arrow.effect.fire_resistance=Стрела огнестойкости
+tipped_arrow.effect.harming=Стрела вреда
+tipped_arrow.effect.healing=Стрела исцеления
+tipped_arrow.effect.invisibility=Стрела невидимости
+tipped_arrow.effect.leaping=Стрела прыгучести
+tipped_arrow.effect.levitation=Стрела левитации
+tipped_arrow.effect.luck=Стрела удачи
+tipped_arrow.effect.mundane=Стрела обработанная мутным зельем
+tipped_arrow.effect.night_vision=Стрела ночного зрения
+tipped_arrow.effect.poison=Стрела отравления
+tipped_arrow.effect.regeneration=Стрела регенерации
+tipped_arrow.effect.slowness=Стрела замедления
+tipped_arrow.effect.strength=Стрела силы
+tipped_arrow.effect.swiftness=Стрела стремительности
+tipped_arrow.effect.thick=Стрела обработанная густым зельем
+tipped_arrow.effect.water=Взрывная стрела
+tipped_arrow.effect.water_breathing=Стрела водного дыхания
+tipped_arrow.effect.weakness=Стрела слабости

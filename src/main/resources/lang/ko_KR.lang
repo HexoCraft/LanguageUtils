@@ -410,6 +410,7 @@ item.banner.orange.name=주황색 현수막
 item.banner.pink.name=분홍색 현수막
 item.banner.purple.name=보라색 현수막
 item.banner.red.name=빨간색 현수막
+<<<<<<< HEAD
 item.banner.rhombus.black=검은색 마름모
 item.banner.rhombus.blue=파란색 마름모
 item.banner.rhombus.brown=갈색 마름모
@@ -731,6 +732,9 @@ item.banner.triangles_top.red=빨간색 위쪽 톱니 모양
 item.banner.triangles_top.silver=회백색 위쪽 톱니 모양
 item.banner.triangles_top.white=하얀색 위쪽 톱니 모양
 item.banner.triangles_top.yellow=노란색 위쪽 톱니 모양
+=======
+item.banner.silver.name=회백색 현수막
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=하얀색 현수막
 item.banner.yellow.name=노란색 현수막
 item.bed.name=침대
@@ -1401,3 +1405,26 @@ tile.woolCarpet.silver.name=회백색 양탄자
 tile.woolCarpet.white.name=양탄자
 tile.woolCarpet.yellow.name=노란색 양탄자
 tile.workbench.name=제작대
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=물약이 묻은 화살
+tipped_arrow.effect.empty=물약이 묻은 화살
+tipped_arrow.effect.fire_resistance=화염 저항의 화살
+tipped_arrow.effect.harming=고통의 화살
+tipped_arrow.effect.healing=즉시 회복의 화살
+tipped_arrow.effect.invisibility=투명화 화살
+tipped_arrow.effect.leaping=도약의 화살
+tipped_arrow.effect.levitation=공중 부양의 화살
+tipped_arrow.effect.luck=행운의 화살
+tipped_arrow.effect.mundane=물약이 묻은 화살
+tipped_arrow.effect.night_vision=야간 투시의 화살
+tipped_arrow.effect.poison=독 화살
+tipped_arrow.effect.regeneration=재생의 화살
+tipped_arrow.effect.slowness=구속의 화살
+tipped_arrow.effect.strength=힘의 화살
+tipped_arrow.effect.swiftness=신속의 화살
+tipped_arrow.effect.thick=물약이 묻은 화살
+tipped_arrow.effect.water=분무 화살
+tipped_arrow.effect.water_breathing=수중 호흡의 화살
+tipped_arrow.effect.weakness=나약함의 화살
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

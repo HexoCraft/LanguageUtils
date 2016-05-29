@@ -111,6 +111,7 @@ item.armorStand.name=מעמד שריון
 item.arrow.name=חץ
 item.banner.black.name=מודעה שחורה
 item.banner.blue.name=שלט כחול
+<<<<<<< HEAD
 item.banner.border.black=Bordure שחור
 item.banner.border.blue=שוליים משולשים כחולים
 item.banner.border.brown=שוליים משולשים חומים
@@ -406,10 +407,20 @@ item.banner.mojang.red=לוגו אדום
 item.banner.mojang.silver=לוגו אפור בהיר
 item.banner.mojang.white=לוגו לבן
 item.banner.mojang.yellow=לוגו צהוב
+=======
+item.banner.brown.name=מודעה חומה
+item.banner.cyan.name=שלט בצבע טורקיט
+item.banner.gray.name=שלט בצבע אפור
+item.banner.green.name=מודעה ירוקה
+item.banner.lightBlue.name=מודעה בצבע תכלת
+item.banner.lime.name=מודעה בצבע ליים
+item.banner.magenta.name=מודעה בצבע מגנטה
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=מודעה כתומה
 item.banner.pink.name=שלט בצבע ורוד
 item.banner.purple.name=שלט סגול
 item.banner.red.name=מודעה אדום
+<<<<<<< HEAD
 item.banner.rhombus.black=יהלום שחור
 item.banner.rhombus.blue=יהלום כחול
 item.banner.rhombus.brown=יהלום חום
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=משולשים עליונים אדומים
 item.banner.triangles_top.silver=משולשים עליונים אפורים בהירים
 item.banner.triangles_top.white=משולשים עליונים לבנים
 item.banner.triangles_top.yellow=משולשים עליונים צהובים
+=======
+item.banner.silver.name=שלט בצבע אפור בהיר
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=מודעה לבנה
 item.banner.yellow.name=מודעה צהובה
 item.bed.name=מיטה
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=שטיח אפור בהיר
 tile.woolCarpet.white.name=שטיח
 tile.woolCarpet.yellow.name=שטיח צהוב
 tile.workbench.name=שולחן מלאכה
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=חץ מושפע
+tipped_arrow.effect.empty=חץ מושפע
+tipped_arrow.effect.fire_resistance=החץ של עמידות אש
+tipped_arrow.effect.harming=החץ של פגיעה
+tipped_arrow.effect.healing=החץ של ריפוי
+tipped_arrow.effect.invisibility=החץ של אי-ניראות
+tipped_arrow.effect.leaping=חץ לזינוק
+tipped_arrow.effect.levitation=החץ של ריחוף
+tipped_arrow.effect.luck=החץ של מזל
+tipped_arrow.effect.mundane=חץ מושפע
+tipped_arrow.effect.night_vision=החץ של ראיית לילה
+tipped_arrow.effect.poison=חץ רעל
+tipped_arrow.effect.regeneration=החץ של התחדשות
+tipped_arrow.effect.slowness=החץ של איטיות
+tipped_arrow.effect.strength=החץ של כוח
+tipped_arrow.effect.swiftness=החץ של זריזות
+tipped_arrow.effect.thick=חץ מושפע
+tipped_arrow.effect.water=החץ של שכשוך
+tipped_arrow.effect.water_breathing=החץ של נשימה מתחת למים
+tipped_arrow.effect.weakness=החץ של חולשה
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

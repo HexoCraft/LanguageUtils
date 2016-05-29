@@ -177,6 +177,7 @@ item.banner.curly_border.silver=Border o' faded grey
 item.banner.curly_border.white=Border o' white
 item.banner.curly_border.yellow=Border o' yella
 item.banner.cyan.name=Cyan Flag
+<<<<<<< HEAD
 item.banner.diagonal_left.red=Scarlet Per Bend Sinister
 item.banner.diagonal_right.red=Scarlet Per Bend
 item.banner.flower.black=Black Flower Boom
@@ -187,11 +188,14 @@ item.banner.flower.red=Red Flower Boom
 item.banner.flower.white=White Flower Boom
 item.banner.flower.yellow=Yeller Flower Boom
 item.banner.gradient.white=Fade o' white
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.gray.name=Gray Flag
 item.banner.green.name=Green Flag
 item.banner.lightBlue.name=Light Blue Flag
 item.banner.lime.name=Lime Flag
 item.banner.magenta.name=Magenta Flag
+<<<<<<< HEAD
 item.banner.mojang.black=Black Thingy
 item.banner.mojang.blue=Blue Thingy
 item.banner.mojang.brown=Brown Thingy
@@ -208,11 +212,14 @@ item.banner.mojang.red=Scarlet Thingy
 item.banner.mojang.silver=Light Gray Thingy
 item.banner.mojang.white=White Thingy
 item.banner.mojang.yellow=Yellow Thingy
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Or'eng Flag
 item.banner.pink.name=Pink Flag
 item.banner.purple.name=Purple Flag
 item.banner.red.name=Scarlet Flag
 item.banner.silver.name=Light Gray Flag
+<<<<<<< HEAD
 item.banner.skull.black=Black Jolly Rodger
 item.banner.skull.blue=Blue Jolly Rodger
 item.banner.skull.brown=Brown Jolly Rodger
@@ -468,6 +475,8 @@ item.banner.triangle_top.purple=Purpl'e Inverted Chevron
 item.banner.triangle_top.red=Scarlet Inverted Chevron
 item.banner.triangles_bottom.red=Scarlet Base Indented
 item.banner.triangles_top.red=Scarlet Chief Indented
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=White Flag
 item.banner.yellow.name=Yellow Flag
 item.bed.name=Bunk
@@ -1138,3 +1147,23 @@ tile.woolCarpet.silver.name=Light Gray Rug
 tile.woolCarpet.white.name=Rug
 tile.woolCarpet.yellow.name=Yellow Rug
 tile.workbench.name=Craftin' Table
+tipped_arrow.effect.awkward=Arrow o' tip
+tipped_arrow.effect.empty=Arrow o' tip
+tipped_arrow.effect.fire_resistance=Bolt o' Flame's Bane
+tipped_arrow.effect.harming=Bolt o' Keelhaul
+tipped_arrow.effect.healing=Bolt o' Healin'
+tipped_arrow.effect.invisibility=Bolt o' tha Ghosts
+tipped_arrow.effect.leaping=Bolt o' Jumpin'
+tipped_arrow.effect.levitation=Bolt o' Flyin'
+tipped_arrow.effect.luck=Bolt o' Luck
+tipped_arrow.effect.mundane=Arrow o' tip
+tipped_arrow.effect.night_vision=Bolt o' Moonlight
+tipped_arrow.effect.poison=Bolt o' Poison
+tipped_arrow.effect.regeneration=Bolt o' Feelin' Bett'r Slowly
+tipped_arrow.effect.slowness=Bolt o' Sloth
+tipped_arrow.effect.strength=Arrow o' Rum
+tipped_arrow.effect.swiftness=Bolt o' full sails
+tipped_arrow.effect.thick=Arrow o' tip
+tipped_arrow.effect.water=Bolt o' Splashin'
+tipped_arrow.effect.water_breathing=Bolt o' tha Mermaids
+tipped_arrow.effect.weakness=Bolt o' Laziness

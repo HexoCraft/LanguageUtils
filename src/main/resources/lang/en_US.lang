@@ -654,6 +654,30 @@ entity.MinecartHopper.name=Minecart with Hopper
 entity.MinecartChest.name=Minecart with Chest
 entity.Boat.name=Boat
 entity.generic.name=unknown
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.empty=Tipped Arrow
+tipped_arrow.effect.water=Tipped Arrow
+tipped_arrow.effect.mundane=Tipped Arrow
+tipped_arrow.effect.thick=Tipped Arrow
+tipped_arrow.effect.awkward=Tipped Arrow
+tipped_arrow.effect.night_vision=Arrow of Night Vision
+tipped_arrow.effect.invisibility=Arrow of Invisibility
+tipped_arrow.effect.leaping=Arrow of Leaping
+tipped_arrow.effect.fire_resistance=Arrow of Fire Resistance
+tipped_arrow.effect.swiftness=Arrow of Swiftness
+tipped_arrow.effect.slowness=Arrow of Slowness
+tipped_arrow.effect.water=Arrow of Splashing
+tipped_arrow.effect.water_breathing=Arrow of Water Breathing
+tipped_arrow.effect.healing=Arrow of Healing
+tipped_arrow.effect.harming=Arrow of Harming
+tipped_arrow.effect.poison=Arrow of Poison
+tipped_arrow.effect.regeneration=Arrow of Regeneration
+tipped_arrow.effect.strength=Arrow of Strength
+tipped_arrow.effect.weakness=Arrow of Weakness
+tipped_arrow.effect.levitation=Arrow of Levitation
+tipped_arrow.effect.luck=Arrow of Luck
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 potion.whenDrank=When Applied:
 potion.effect.empty=Uncraftable Potion
 potion.effect.water=Water Bottle
@@ -794,6 +818,7 @@ item.shield.lightBlue.name=Light Blue Shield
 item.shield.magenta.name=Magenta Shield
 item.shield.orange.name=Orange Shield
 item.shield.white.name=White Shield
+<<<<<<< HEAD
 item.banner.square_bottom_left.black=Black Base Dexter Canton
 item.banner.square_bottom_left.red=Red Base Dexter Canton
 item.banner.square_bottom_left.green=Green Base Dexter Canton
@@ -1402,3 +1427,5 @@ item.banner.straight_cross.lightBlue=Light Blue Cross
 item.banner.straight_cross.magenta=Magenta Cross
 item.banner.straight_cross.orange=Orange Cross
 item.banner.straight_cross.white=White Cross
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

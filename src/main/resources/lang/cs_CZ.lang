@@ -111,6 +111,7 @@ item.armorStand.name=Stojan na brnění
 item.arrow.name=Šíp
 item.banner.black.name=Černý prapor
 item.banner.blue.name=Modrý prapor
+<<<<<<< HEAD
 item.banner.border.black=Černý lem
 item.banner.border.blue=Modrý lem
 item.banner.border.brown=Hnědý lem
@@ -406,10 +407,20 @@ item.banner.mojang.red=Červená věc
 item.banner.mojang.silver=Světle šedá věc
 item.banner.mojang.white=Bílá věc
 item.banner.mojang.yellow=Žlutá věc
+=======
+item.banner.brown.name=Hnědý prapor
+item.banner.cyan.name=Azurový prapor
+item.banner.gray.name=Šedý prapor
+item.banner.green.name=Zelený prapor
+item.banner.lightBlue.name=Světle modrý prapor
+item.banner.lime.name=Světle zelený prapor
+item.banner.magenta.name=Purpurový prapor
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Oranžový prapor
 item.banner.pink.name=Růžový prapor
 item.banner.purple.name=Fialový prapor
 item.banner.red.name=Červený prapor
+<<<<<<< HEAD
 item.banner.rhombus.black=Černý kosočtverec
 item.banner.rhombus.blue=Modrý kosočtverec
 item.banner.rhombus.brown=Hnědý kosočtverec
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Červený odsazený horní pruh
 item.banner.triangles_top.silver=Světle šedý odsazený horní pruh
 item.banner.triangles_top.white=Bílý odsazený horní pruh
 item.banner.triangles_top.yellow=Žlutý odsazený horní pruh
+=======
+item.banner.silver.name=Světle šedý prapor
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Bílý prapor
 item.banner.yellow.name=Žlutý prapor
 item.bed.name=Postel
@@ -1401,3 +1415,23 @@ tile.woolCarpet.silver.name=Světle šedý koberec
 tile.woolCarpet.white.name=Koberec
 tile.woolCarpet.yellow.name=Žlutý koberec
 tile.workbench.name=Pracovní stůl
+tipped_arrow.effect.awkward=Namočený šíp
+tipped_arrow.effect.empty=Namočený šíp
+tipped_arrow.effect.fire_resistance=Šíp ohnivzdornosti
+tipped_arrow.effect.harming=Šíp ublížení
+tipped_arrow.effect.healing=Šíp léčení
+tipped_arrow.effect.invisibility=Šíp neviditelnosti
+tipped_arrow.effect.leaping=Šíp skákání
+tipped_arrow.effect.levitation=Šíp levitace
+tipped_arrow.effect.luck=Šíp štěstí
+tipped_arrow.effect.mundane=Namočený šíp
+tipped_arrow.effect.night_vision=Šíp vidění ve tmě
+tipped_arrow.effect.poison=Otrávený šíp
+tipped_arrow.effect.regeneration=Šíp regenerace
+tipped_arrow.effect.slowness=Šíp zpomalení
+tipped_arrow.effect.strength=Šíp síly
+tipped_arrow.effect.swiftness=Šíp svižnosti
+tipped_arrow.effect.thick=Namočený šíp
+tipped_arrow.effect.water=Rozstřikovací šíp
+tipped_arrow.effect.water_breathing=Šíp dýchání pod vodou
+tipped_arrow.effect.weakness=Šíp oslabení

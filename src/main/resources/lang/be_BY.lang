@@ -111,6 +111,7 @@ item.armorStand.name=Стойка для брані
 item.arrow.name=Страла
 item.banner.black.name=Чорны сцяг
 item.banner.blue.name=Сіні сцяг
+<<<<<<< HEAD
 item.banner.border.black=Чорная ліштва
 item.banner.border.blue=Сіняя ліштва
 item.banner.border.brown=Карычневая ліштва
@@ -406,10 +407,20 @@ item.banner.mojang.red=Чырвоны лагатып Mojang
 item.banner.mojang.silver=Светла-шэры лагатып Mojang
 item.banner.mojang.white=Белы лагатып Mojang
 item.banner.mojang.yellow=Жоўты лагатып Mojang
+=======
+item.banner.brown.name=Карычневы сцяг
+item.banner.cyan.name=Бірузовы сцяг
+item.banner.gray.name=Шэры сцяг
+item.banner.green.name=Зялёны сцяг
+item.banner.lightBlue.name=Блакітны сцяг
+item.banner.lime.name=Лаймавы сцяг
+item.banner.magenta.name=Пурпурны сцяг
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Аранжавы сцяг
 item.banner.pink.name=Ружовы сцяг
 item.banner.purple.name=Фіялетавы сцяг
 item.banner.red.name=Чырвоны сцяг
+<<<<<<< HEAD
 item.banner.rhombus.black=Чорны ромб
 item.banner.rhombus.blue=Сіні ромб
 item.banner.rhombus.brown=Карычневы ромб
@@ -731,6 +742,9 @@ item.banner.triangles_top.red=Чырвонае зубчастае чало
 item.banner.triangles_top.silver=Светла-шэрае зубчастае чало
 item.banner.triangles_top.white=Белае зубчастае чало
 item.banner.triangles_top.yellow=Жоўтае зубчастае чало
+=======
+item.banner.silver.name=Светла-шэры сцяг
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Белы сцяг
 item.banner.yellow.name=Жоўты сцяг
 item.bed.name=Ложак
@@ -1401,3 +1415,26 @@ tile.woolCarpet.silver.name=Светла-шэры дыван
 tile.woolCarpet.white.name=Дыван
 tile.woolCarpet.yellow.name=Жоўты дыван
 tile.workbench.name=Варштат
+<<<<<<< HEAD
+=======
+tipped_arrow.effect.awkward=Апрацаваная страла
+tipped_arrow.effect.empty=Апрацаваная страла
+tipped_arrow.effect.fire_resistance=Страла вогнестойкасці
+tipped_arrow.effect.harming=Страла шкоды
+tipped_arrow.effect.healing=Гаючая страла
+tipped_arrow.effect.invisibility=Страла нябачнасці
+tipped_arrow.effect.leaping=Страла скакучасці
+tipped_arrow.effect.levitation=Страла левітацыі
+tipped_arrow.effect.luck=Страла ўдачы
+tipped_arrow.effect.mundane=Апрацаваная страла
+tipped_arrow.effect.night_vision=Страла начнога зроку
+tipped_arrow.effect.poison=Атручаная страла
+tipped_arrow.effect.regeneration=Страла аднаўлення
+tipped_arrow.effect.slowness=Страла запаволення
+tipped_arrow.effect.strength=Страла моцы
+tipped_arrow.effect.swiftness=Страла хуткасці
+tipped_arrow.effect.thick=Апрацаваная страла
+tipped_arrow.effect.water=Выбухная страла
+tipped_arrow.effect.water_breathing=Страла воднага дыхання
+tipped_arrow.effect.weakness=Страла кволасці
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a

@@ -144,6 +144,7 @@ item.banner.bricks.silver=Feld hellgro gemauert
 item.banner.bricks.white=Feld wäiss gemauert
 item.banner.bricks.yellow=Feld giel gemauert
 item.banner.brown.name=Bronge Fändel
+<<<<<<< HEAD
 item.banner.circle.black=Schwaarz Kugel
 item.banner.circle.blue=Blo Kugel
 item.banner.circle.brown=Brong Kugel
@@ -321,6 +322,9 @@ item.banner.gradient_up.red=Roude Fuerfverlaf (Inverséiert)
 item.banner.gradient_up.silver=Hellgroe Fuerfverlaf (Inverséiert)
 item.banner.gradient_up.white=Wäisse Fuerfverlaf (Inverséiert)
 item.banner.gradient_up.yellow=Giele Fuerfverlaf (Inverséiert)
+=======
+item.banner.cyan.name=Turquoise Fändel
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.gray.name=Groe Fändel
 item.banner.green.name=Grénge Fändel
 item.banner.half_horizontal.black=Uewe schwaarz gedeelt
@@ -390,6 +394,7 @@ item.banner.half_vertical_right.yellow=Lénks giel gedeelt
 item.banner.lightBlue.name=Hellbloe Fändel
 item.banner.lime.name=Hellgrénge Fändel
 item.banner.magenta.name=Magentae Fändel
+<<<<<<< HEAD
 item.banner.mojang.black=Schwaarzt Mojang Logo
 item.banner.mojang.blue=Blot Mojang Logo
 item.banner.mojang.brown=Brongt Mojang Logo
@@ -406,6 +411,8 @@ item.banner.mojang.red=Rout Mojang Logo
 item.banner.mojang.silver=Hellgrot Mojang Logo
 item.banner.mojang.white=Wäisst Mojang Logo
 item.banner.mojang.yellow=Gielt Mojang Logo
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Orange Fändel
 item.banner.pink.name=Rosae Fändel
 item.banner.purple.name=Mofe Fändel
@@ -1401,3 +1408,23 @@ tile.woolCarpet.silver.name=Hellgroen Teppech
 tile.woolCarpet.white.name=Wäissen Teppech
 tile.woolCarpet.yellow.name=Gielen Teppech
 tile.workbench.name=Wierkbänk
+tipped_arrow.effect.awkward=Gedränkte Feil
+tipped_arrow.effect.empty=Gedränkte Feil
+tipped_arrow.effect.fire_resistance=Feil vun der Féierresistenz
+tipped_arrow.effect.harming=Feil vum Schued
+tipped_arrow.effect.healing=Feil vun der Heelung
+tipped_arrow.effect.invisibility=Feil vun der Onsiichtbarkeet
+tipped_arrow.effect.leaping=Feil vun der Sprongkraaft
+tipped_arrow.effect.levitation=Feil vum Schwiewen
+tipped_arrow.effect.luck=Feil vum Gléck
+tipped_arrow.effect.mundane=Gedränkte Feil
+tipped_arrow.effect.night_vision=Feil vun der Nuechtsiicht
+tipped_arrow.effect.poison=Feil vum Gëft
+tipped_arrow.effect.regeneration=Feil vun der Regeneratioun
+tipped_arrow.effect.slowness=Feil vun der Luesheet
+tipped_arrow.effect.strength=Feil vun der Kraaft
+tipped_arrow.effect.swiftness=Feil vun der Schnellegkeet
+tipped_arrow.effect.thick=Gedränkte Feil
+tipped_arrow.effect.water=Naasse Feil
+tipped_arrow.effect.water_breathing=Feil vun der Waasserootmung
+tipped_arrow.effect.weakness=Feil vun der Schwächt

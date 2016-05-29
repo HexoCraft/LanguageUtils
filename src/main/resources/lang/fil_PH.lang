@@ -118,16 +118,20 @@ item.banner.green.name=Berdeng Watawat
 item.banner.lightBlue.name=Mapusyaw na Asul na Watawat
 item.banner.lime.name=Kulay-kalamansing Watawat
 item.banner.magenta.name=Kulay-pulang Watawat
+<<<<<<< HEAD
 item.banner.mojang.black=Itim na bagay
 item.banner.mojang.blue=Asul na bagay
 item.banner.mojang.green=Berdeng bagay
 item.banner.mojang.red=Pulang bagay
 item.banner.mojang.yellow=Dilaw na bagay
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.orange.name=Kahel na Watawat
 item.banner.pink.name=Kulay-rosas na Watawat
 item.banner.purple.name=Lilang Watawat
 item.banner.red.name=Pulang Watawat
 item.banner.silver.name=Mapusyaw na Kulay Abong Watawat
+<<<<<<< HEAD
 item.banner.square_bottom_left.black=Itim na Base na Dexter Canton
 item.banner.square_bottom_left.blue=Asul na Base na Dexter Canton
 item.banner.square_bottom_left.brown=Kayumangging Base na Dexter Canton
@@ -275,6 +279,8 @@ item.banner.stripe_top.red=Pula Hepe Fess
 item.banner.stripe_top.silver=Mahinang Abo Hepe Fess
 item.banner.stripe_top.white=Puti Hepe Fess
 item.banner.stripe_top.yellow=Dilaw Hepe Fess
+=======
+>>>>>>> 5d77216efcec7e2d7d1637955e5f69e136802c1a
 item.banner.white.name=Puting Watawat
 item.banner.yellow.name=Dilaw na Watawat
 item.bed.name=Kama
@@ -945,3 +951,23 @@ tile.woolCarpet.silver.name=Alpombrang Pilak
 tile.woolCarpet.white.name=Alpombra
 tile.woolCarpet.yellow.name=Alpombrang Dilaw
 tile.workbench.name=Gawaan
+tipped_arrow.effect.awkward=Tipped na Palaso
+tipped_arrow.effect.empty=Tipped na Palaso
+tipped_arrow.effect.fire_resistance=Palaso na may resistensya sa apoy
+tipped_arrow.effect.harming=Palaso ng Patay
+tipped_arrow.effect.healing=Palaso na nagpapagaling
+tipped_arrow.effect.invisibility=Wala nakita na tunod
+tipped_arrow.effect.leaping=Tunod na Talon
+tipped_arrow.effect.levitation=Palaso ng Paglutang
+tipped_arrow.effect.luck=Palaso ng Pagkasuwerte
+tipped_arrow.effect.mundane=Tipped na Palaso
+tipped_arrow.effect.night_vision=Palaso ng night vision
+tipped_arrow.effect.poison=Palaso na may lason
+tipped_arrow.effect.regeneration=Palaso ng Lunas
+tipped_arrow.effect.slowness=Tunod na Bagal
+tipped_arrow.effect.strength=Palaso ng Lakas
+tipped_arrow.effect.swiftness=Tunod na Dali
+tipped_arrow.effect.thick=Tipped na Palaso
+tipped_arrow.effect.water=Basa na Tunod
+tipped_arrow.effect.water_breathing=Palaso na may paghinga sa tubig
+tipped_arrow.effect.weakness=Palaso ng Hina

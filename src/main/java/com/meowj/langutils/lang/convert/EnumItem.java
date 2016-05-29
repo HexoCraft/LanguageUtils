@@ -20,8 +20,6 @@ import java.util.EnumSet;
 import java.util.HashMap;
 import java.util.Map;
 
-import static javax.swing.text.html.HTML.Tag.TH;
-
 /**
  * Created by Meow J on 6/20/2015.
  * <p>
@@ -474,11 +472,11 @@ public enum EnumItem {
     SNOWBALL(Material.SNOW_BALL, "item.snowball.name"),
     BOAT(Material.BOAT, "item.boat.oak.name"),
     OAK_BOAT(Material.BOAT, "item.boat.oak.name"),
-    SPRUCE_BOAT(Material.BOAT, 1, "item.boat.spruce.name"),
-    BIRCH_BOAT(Material.BOAT, 2, "item.boat.birch.name"),
-    JUNGLE_BOAT(Material.BOAT, 3, "item.boat.jungle.name"),
-    ACACIA_BOAT(Material.BOAT, 4, "item.boat.acacia.name"),
-    DARK_OAK_BOAT(Material.BOAT, 5, "item.boat.dark_oak.name"),
+    SPRUCE_BOAT(Material.BOAT_SPRUCE, "item.boat.spruce.name"),
+    BIRCH_BOAT(Material.BOAT_BIRCH, "item.boat.birch.name"),
+    JUNGLE_BOAT(Material.BOAT_JUNGLE, "item.boat.jungle.name"),
+    ACACIA_BOAT(Material.BOAT_ACACIA, "item.boat.acacia.name"),
+    DARK_OAK_BOAT(Material.BOAT_DARK_OAK, "item.boat.dark_oak.name"),
     LEATHER(Material.LEATHER, "item.leather.name"),
     MILK(Material.MILK_BUCKET, "item.milk.name"),
     BRICK(Material.CLAY_BRICK, "item.brick.name"),
@@ -579,7 +577,7 @@ public enum EnumItem {
     ZOMBIE_HEAD(Material.SKULL_ITEM, 2, "item.skull.zombie.name"),
     PLAYER_HEAD(Material.SKULL_ITEM, 3, "item.skull.char.name"),
     CREEPER_HEAD(Material.SKULL_ITEM, 4, "item.skull.creeper.name"),
-    DRAGON_HEAD(Material.SKULL, 5, "item.skull.dragon.name"),
+    DRAGON_HEAD(Material.SKULL_ITEM, 5, "item.skull.dragon.name"),
     CARROT_ON_A_STICK(Material.CARROT_STICK, "item.carrotOnAStick.name"),
     NETHER_STAR(Material.NETHER_STAR, "item.netherStar.name"),
     PUMPKIN_PIE(Material.PUMPKIN_PIE, "item.pumpkinPie.name"),
@@ -674,7 +672,7 @@ public enum EnumItem {
         SkullMeta meta = (SkullMeta) skull.getItemMeta();
         if (meta.hasOwner()) {
             return String.format(LanguageHelper.translateToLocal("item.skull.player.name", locale),
-                    meta.getOwner());
+            meta.getOwner());
         } else return LanguageHelper.translateToLocal("item.skull.char.name", locale);
     }
 
