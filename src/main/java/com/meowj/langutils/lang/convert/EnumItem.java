@@ -672,7 +672,7 @@ public enum EnumItem {
         SkullMeta meta = (SkullMeta) skull.getItemMeta();
         if (meta.hasOwner()) {
             return String.format(LanguageHelper.translateToLocal("item.skull.player.name", locale),
-            meta.getOwner());
+                    meta.getOwner());
         } else return LanguageHelper.translateToLocal("item.skull.char.name", locale);
     }
 
